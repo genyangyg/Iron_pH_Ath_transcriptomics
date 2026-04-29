@@ -4,6 +4,6 @@ ulimit -n 4096
   --runThreadN 50 \
   --runMode genomeGenerate \
   --genomeDir /prj/pflaphy-ironph/Structured_data/Athaliana/genome_Athaliana_TAIR10.1/ \
-  --genomeFastaFiles /prj/pflaphy-ironph/Structured_data/Athaliana/genome_Athaliana_TAIR10.1/ncbi_dataset/data/GCF_000001735.4/GCF_000001735.4_TAIR10.1_genomic.fna \
+  --genomeFastaFiles /prj/pflaphy-ironph/Structured_data/A_thaliana/genome_Athaliana_TAIR10.1/ncbi_dataset/data/GCF_000001735.4/GCF_000001735.4_TAIR10.1_genomic.fna \
   --sjdbGTFfile /prj/pflaphy-ironph/Structured_data/Athaliana/genome_Athaliana_TAIR10.1/ncbi_dataset/data/GCF_000001735.4/genomic.gtf \
   --sjdbOverhang 149
