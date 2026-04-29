@@ -1,0 +1,23 @@
+#!/bin/bash
+set -euo pipefail
+
+GTF="/prj/pflaphy-ironph/Structured_data/Athaliana/genome_Athaliana_TAIR10.1/ncbi_dataset/data/GCF_000001735.4/genomic.gtf"
+
+BAM_DIR="/prj/pflaphy-ironph/Structured_data/A_thaliana/STAR_for_Athaliana"
+OUTDIR="/prj/pflaphy-ironph/Structured_data/A_thaliana/FeatureCount_Ath_root_results"
+
+mkdir -p "$OUTDIR"
+
+# collect BAMs cleanly
+BAMS=$(find "$BAM_DIR" -type f -name "*.bam" | sort)
+
+/vol/cluster-data/genyang/anaconda3/bin/featureCounts \
+    -T 50 \
+    -p \
+    -t exon \
+    -g gene_id \
+    -s 2 \
+    --countReadPairs \
+    -a "$GTF" \
+    -o "$OUTDIR/Ath_root_featureCounts.txt" \
+    $BAMS
