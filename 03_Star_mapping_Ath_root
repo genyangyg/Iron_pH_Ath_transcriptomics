@@ -1,0 +1,70 @@
+#!/bin/bash
+set -euo pipefail
+
+METADATA="/prj/pflaphy-ironph/Transcriptome_data/metadata_all_samples.csv"
+
+GENOME_DIR="/prj/pflaphy-ironph/Structured_data/A_thaliana/genome_Athaliana_TAIR10.1/"
+OUT_DIR="/prj/pflaphy-ironph/Structured_data/A_thaliana/STAR_for_Athaliana/"
+
+mkdir -p "$OUT_DIR"
+
+echo "Start STAR mapping: $(date)"
+
+# -----------------------------
+# STAR mapping
+# -----------------------------
+tail -n +2 "$METADATA" | while IFS=',' read -r _ _ Code species _ _ _ _ tissue _ _ _ file_path_R1 file_path_R2; do
+
+    # clean
+    Code=$(echo "$Code" | tr -d '" ')
+    species=$(echo "$species" | tr -d '" ')
+    tissue=$(echo "$tissue" | tr -d '" ')
+    file1=$(echo "$file_path_R1" | tr -d '" ')
+    file2=$(echo "$file_path_R2" | tr -d '" ')
+
+    # filter
+    if [[ "$species" != "Arabidopsis_thaliana" || "$tissue" != "root" ]]; then
+        continue
+    fi
+
+    SAMPLE="$Code"
+    SAMPLE_DIR="$OUT_DIR/$SAMPLE"
+
+    mkdir -p "$SAMPLE_DIR"
+
+    # safety check
+    if [[ ! -f "$file1" || ! -f "$file2" ]]; then
+        echo "MISSING FASTQ: $SAMPLE"
+        continue
+    fi
+
+    echo "Running STAR: $SAMPLE"
+
+    /vol/cluster-data/genyang/anaconda3/bin/STAR \
+        --runThreadN 50 \
+        --genomeDir "$GENOME_DIR" \
+        --readFilesIn "$file1" "$file2" \
+        --readFilesCommand zcat \
+        --outFileNamePrefix "$SAMPLE_DIR/" \
+        --outSAMtype BAM SortedByCoordinate
+
+done
+
+echo "STAR mapping done: $(date)"
+
+# -----------------------------
+# rename BAM files
+# -----------------------------
+echo "Renaming BAM files: $(date)"
+
+for folder in "$OUT_DIR"/*/; do
+    bam="${folder}Aligned.sortedByCoord.out.bam"
+
+    if [[ -f "$bam" ]]; then
+        sample=$(basename "$folder")
+        mv "$bam" "${folder}${sample}.bam"
+        echo "RENAMED: $sample"
+    fi
+done
+
+echo "All done: $(date)"
