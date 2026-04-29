@@ -48,3 +48,9 @@ tail -n +2 "$METADATA" | while IFS=',' read -r sample_id _ _ species _ _ _ _ tis
 done
 
 echo "Done: $(date)" | tee -a "$LOG"
+
+echo "Running MultiQC..." | tee -a "$LOG"
+
+multiqc "$TARGET_DIR" -o "$FASTQC_DIR/Multiqc_Ath_root"
+
+echo "MultiQC done: $(date)" | tee -a "$LOG"
