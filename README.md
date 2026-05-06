@@ -3,10 +3,14 @@ This repository contains the RNA-seq data analysis pipeline for Arabidopsis thal
 
 ## Repository structure
 
+- `scripts/`
+  - `Linux/`: shell scripts for QC, mapping, and read counting
+  - `R/`: scripts for DESeq2 analysis, clustering, and enrichment
+
 - `data/`
   - `annotation/`: gene annotation and gene set files
-  - `raw/`: processed count tables and sample metadata
-  - `clustering/`: clustering input tables
+  - `raw/`: count matrices and sample metadata
+  - `clustering/`: input tables for clustering
 
 - `results/`
   - `01_DESeq2_model/`: DESeq2 objects and model outputs
@@ -17,10 +21,13 @@ This repository contains the RNA-seq data analysis pipeline for Arabidopsis thal
   - `06_GO_enrichment/`: GO enrichment results
   - `07_KEGG_enrichment/`: KEGG enrichment results
 
-- `scripts/`
-  - `Linux/`: shell scripts for QC, mapping, and counting
-  - `R/`: R scripts for DESeq2, clustering, and enrichment analysis
 ---
+
+## Notes
+
+- The analysis follows the numbering of scripts (01–07).
+- Intermediate files are kept to allow re-running specific steps.
+- Raw sequencing data are not included in this repository.
 
 ## Read mapping
 
