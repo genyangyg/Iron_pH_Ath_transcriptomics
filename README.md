@@ -1,7 +1,25 @@
 # Iron_pH_Ath_transcriptomics
 This repository contains the RNA-seq data analysis pipeline for Arabidopsis thaliana root samples under different iron (Fe) and pH conditions.
 
+## Repository structure
 
+- `data/`
+  - `annotation/`: gene annotation and gene set files
+  - `raw/`: processed count tables and sample metadata
+  - `clustering/`: clustering input tables
+
+- `results/`
+  - `01_DESeq2_model/`: DESeq2 objects and model outputs
+  - `02_DEG_classification/`: DEG summary tables
+  - `03_functional_annotation/`: annotation-integrated tables
+  - `04_expression_clusters_mfuzz/`: Mfuzz clustering outputs
+  - `05_regulatory_subgroup_classification/`: subgroup classification tables
+  - `06_GO_enrichment/`: GO enrichment results
+  - `07_KEGG_enrichment/`: KEGG enrichment results
+
+- `scripts/`
+  - `Linux/`: shell scripts for QC, mapping, and counting
+  - `R/`: R scripts for DESeq2, clustering, and enrichment analysis
 ---
 
 ## Read mapping
