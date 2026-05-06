@@ -1,0 +1,365 @@
+AGI code	Annotation
+AT5G04240	 zinc finger protein - like [Arabidopsis thaliana] 
+AT1G63490	 transcription factor jumonji (jmjC) domain-containing protein [Arabidopsis thaliana] 
+AT1G08620	 transcription factor jumonji (jmj) family protein / zinc finger (C5HC2 type) family protein [Arabidopsis thaliana] 
+AT4G20400	 transcription factor jumonji (jmj) family protein / zinc finger (C5HC2 type) family protein [Arabidopsis thaliana] 
+AT3G48430	 zinc finger (C2H2 type) family protein / transcription factor jumonji (jmj) family protein [Arabidopsis thaliana] 
+AT1G30810	 transcription factor jumonji (jmj) family protein / zinc finger (C5HC2 type) family protein [Arabidopsis thaliana] 
+AT2G34880	 transcription factor jumonji (jmj) family protein / zinc finger (C5HC2 type) family protein [Arabidopsis thaliana] 
+AT5G46910	 hypothetical protein [Arabidopsis thaliana] 
+AT1G11780	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G14140	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT5G01780	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT1G03475	" coproporphyrinogen III oxidase, putative / coproporphyrinogenase, putative / coprogen oxidase, putative [Arabidopsis thaliana] "
+AT4G03205	" coproporphyrinogen III oxidase, putative / coproporphyrinogenase, putative / coprogen oxidase, putative [Arabidopsis thaliana] "
+AT5G10070	 expressed protein [Arabidopsis thaliana] 
+AT5G54080	" homogentisate 1,2-dioxygenase [Arabidopsis thaliana] "
+AT4G31770	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT2G38460	 iron transporter-related [Arabidopsis thaliana] 
+AT5G03570	 hypothetical protein [Arabidopsis thaliana] 
+AT1G22950	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G18210	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G48740	 expressed protein [Arabidopsis thaliana] 
+AT4G02980	 auxin-binding protein 1 (ABP1) [Arabidopsis thaliana] 
+AT1G80460	" glycerol kinase, putative [Arabidopsis thaliana] "
+AT4G30310	" ribitol kinase, putative [Arabidopsis thaliana] "
+AT5G49650	 xylulose kinase [Arabidopsis thaliana] 
+AT2G21370	" xylulose kinase, putative [Arabidopsis thaliana] "
+AT3G21300	 RNA methyltransferase family protein [Arabidopsis thaliana] 
+AT3G27180	 expressed protein [Arabidopsis thaliana] 
+AT1G06570	 4-hydroxyphenylpyruvate dioxygenase (HPD) [Arabidopsis thaliana] 
+AT2G25280	 expressed protein [Arabidopsis thaliana] 
+AT1G43800	" acyl-[acyl-carrier-protein] desaturase, putative / stearoyl-ACP desaturase, putative [Arabidopsis thaliana] "
+AT2G43710	 acyl-[acyl-carrier-protein] desaturase / stearoyl-ACP desaturase (SSI2) [Arabidopsis thaliana] 
+AT3G02610	" acyl-[acyl-carrier-protein] desaturase, putative / stearoyl-ACP desaturase, putative [Arabidopsis thaliana] "
+AT3G02620	" acyl-[acyl-carrier-protein] desaturase, putative / stearoyl-ACP desaturase, putative [Arabidopsis thaliana] "
+AT3G02630	" acyl-[acyl-carrier-protein] desaturase, putative / stearoyl-ACP desaturase, putative [Arabidopsis thaliana] "
+AT5G16230	" acyl-[acyl-carrier-protein] desaturase (stearoyl-ACP desaturase), putative [Arabidopsis thaliana] "
+AT5G16240	" acyl-[acyl-carrier-protein] desaturase (stearoyl-ACP desaturase), putative [Arabidopsis thaliana] "
+AT3G56940	" dicarboxylate diiron protein, putative (Crd1) [Arabidopsis thaliana] "
+AT4G11800	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT4G23000	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT4G25700	 beta-carotene hydroxylase [Arabidopsis thaliana] 
+AT5G52570	" beta-carotene hydroxylase, putative [Arabidopsis thaliana] "
+AT1G09560	 germin-like protein (GLP4) (GLP5) [Arabidopsis thaliana] 
+AT1G18980	" germin-like protein, putative [Arabidopsis thaliana] "
+AT1G72610	 germin-like protein (GER1) [Arabidopsis thaliana] 
+AT1G74820	 cupin family protein [Arabidopsis thaliana] 
+AT3G04170	" germin-like protein, putative [Arabidopsis thaliana] "
+AT3G04190	" germin-like protein, putative [Arabidopsis thaliana] "
+AT3G04200	" germin-like protein, putative [Arabidopsis thaliana] "
+AT3G05930	 germin-like protein (GLP8) [Arabidopsis thaliana] 
+AT3G05950	" germin-like protein, putative [Arabidopsis thaliana] "
+AT3G10080	" germin-like protein, putative [Arabidopsis thaliana] "
+AT3G62020	 germin-like protein (GLP10) [Arabidopsis thaliana] 
+AT4G14630	 germin-like protein (GLP9) [Arabidopsis thaliana] 
+AT5G20630	 germin-like protein (AtGER3) [Arabidopsis thaliana] 
+AT5G38930	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G38940	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G38960	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G39110	 germin-like protein (GLP6) [Arabidopsis thaliana] 
+AT5G39120	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G39130	 germin-like protein (AtGER2) [Arabidopsis thaliana] 
+AT5G39150	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G39160	 germin-like protein (GLP2a) (GLP5A) [Arabidopsis thaliana] 
+AT5G39180	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G39190	 germin-like protein (AtGER2) [Arabidopsis thaliana] 
+AT5G61750	 germin-like protein family [Arabidopsis thaliana] 
+AT1G10460	 germin-like protein (GLP7) [Arabidopsis thaliana] 
+AT1G18970	 germin-like protein (GLP1) (GLP4) [Arabidopsis thaliana] 
+AT5G39100	 germin-like protein [Arabidopsis thaliana] 
+AT5G26700	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G38910	" germin-like protein, putative [Arabidopsis thaliana] "
+AT5G41650	 expressed protein [Arabidopsis thaliana] 
+AT1G64185	 lactoylglutathione lyase family protein / glyoxalase I family protein [Arabidopsis thaliana] 
+AT5G50340	 DNA repair protein-related [Arabidopsis thaliana] 
+AT4G21710	 DNA-directed RNA polymerase II 135 kDa polypeptide / RNA polymerase II subunit 2 (RPB135) (RPB2) (RP140) [Arabidopsis thaliana] 
+AT5G45140	 DNA-directed RNA polymerase subunit [Arabidopsis thaliana] 
+AT3G18090	 DNA-directed RNA polymerase family protein [Arabidopsis thaliana] 
+AT3G23780	 DNA-directed RNA polymerase family protein [Arabidopsis thaliana] 
+AT5G41190	 hypothetical protein [Arabidopsis thaliana] 
+AT4G15093	 catalytic LigB subunit of aromatic ring-opening dioxygenase family [Arabidopsis thaliana] 
+AT5G32470	 expressed protein [Arabidopsis thaliana] 
+AT3G10920	" superoxide dismutase [Mn], mitochondrial (SODA) / manganese superoxide dismutase (MSD1) [Arabidopsis thaliana] "
+AT3G56350	" superoxide dismutase [Mn], putative / manganese superoxide dismutase, putative [Arabidopsis thaliana] "
+AT4G25100	" superoxide dismutase [Fe], chloroplast (SODB) / iron superoxide dismutase (FSD1) [Arabidopsis thaliana] "
+AT5G23310	 iron superoxide dismutase (FSD3) [Arabidopsis thaliana] 
+AT5G51100	" iron superoxide dismutase, putative [Arabidopsis thaliana] "
+AT5G58200	 contains similarity to phosphoesterase [Arabidopsis thaliana] 
+AT2G26400	 acireductone dioxygenase (ARD/ARD') family protein [Arabidopsis thaliana] 
+AT4G14710	" iron-deficiency-responsive protein, putative [Arabidopsis thaliana] "
+AT4G14716	" iron-deficiency-responsive protein, putative [Arabidopsis thaliana] "
+AT5G43850	 expressed protein [Arabidopsis thaliana] 
+AT1G30100	" 9-cis-epoxycarotenoid dioxygenase, putative / neoxanthin cleavage enzyme, putative / carotenoid cleavage dioxygenase, putative [Arabidopsis thaliana] "
+AT1G78390	" 9-cis-epoxycarotenoid dioxygenase, putative / neoxanthin cleavage enzyme, putative / carotenoid cleavage dioxygenase, putative [Arabidopsis thaliana] "
+AT2G44990	 dioxygenase-related [Arabidopsis thaliana] 
+AT3G14440	" 9-cis-epoxycarotenoid dioxygenase, putative / neoxanthin cleavage enzyme, putative / carotenoid cleavage dioxygenase, putative [Arabidopsis thaliana] "
+AT3G24220	" 9-cis-epoxycarotenoid dioxygenase, putative / neoxanthin cleavage enzyme, putative / carotenoid cleavage dioxygenase, putative [Arabidopsis thaliana] "
+AT3G63520	 9-cis-epoxycarotenoid dioxygenase / neoxanthin cleavage enzyme / NCED1 / carotenoid cleavage dioxygenase 1 (CCD1) [Arabidopsis thaliana] 
+AT4G18350	" 9-cis-epoxycarotenoid dioxygenase, putative / neoxanthin cleavage enzyme, putative / carotenoid cleavage dioxygenase, putative [Arabidopsis thaliana] "
+AT4G19170	" 9-cis-epoxycarotenoid dioxygenase, putative / neoxanthin cleavage enzyme, putative / carotenoid cleavage dioxygenase, putative [Arabidopsis thaliana] "
+AT4G32810	 dioxygenase-related [Arabidopsis thaliana] 
+AT2G18540	 cupin family protein [Arabidopsis thaliana] 
+AT3G22640	 cupin family protein [Arabidopsis thaliana] 
+AT4G36700	 cupin family protein [Arabidopsis thaliana] 
+AT3G16250	 ferredoxin-related [Arabidopsis thaliana] 
+AT4G32590	 ferredoxin-related [Arabidopsis thaliana] 
+AT4G24730	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT5G63140	 calcineurin-like phosphoesterase family [Arabidopsis thaliana] 
+AT2G17970	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT2G48080	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G02485	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G48980	 hypothetical protein [Arabidopsis thaliana] 
+AT3G28490	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G35820	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT2G23096	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT2G17720	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT5G66060	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT1G20270	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G28480	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G33910	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G30540	" ATPase, BadF/BadG/BcrA/BcrD-type family [Arabidopsis thaliana] "
+AT1G32550	 ferredoxin family protein [Arabidopsis thaliana] 
+AT4G14890	 ferredoxin family protein [Arabidopsis thaliana] 
+AT2G01490	 phytanoyl-CoA dioxygenase (PhyH) family protein [Arabidopsis thaliana] 
+AT3G17810	 dihydroorotate dehydrogenase family protein / dihydroorotate oxidase family protein [Arabidopsis thaliana] 
+AT3G22360	" alternative oxidase 1b, mitochondrial (AOX1B) [Arabidopsis thaliana] "
+AT3G22370	" alternative oxidase 1a, mitochondrial (AOX1A) [Arabidopsis thaliana] "
+AT3G27620	" alternative oxidase 1c, mitochondrial (AOX1C) [Arabidopsis thaliana] "
+AT5G64210	" alternative oxidase 2, mitochondrial (AOX2) [Arabidopsis thaliana] "
+AT1G32350	" alternative oxidase, putative [Arabidopsis thaliana] "
+AT4G22260	" alternative oxidase, putative / immutans protein (IM) [Arabidopsis thaliana] "
+AT1G10810	 aldo/keto reductase family protein [Arabidopsis thaliana] 
+AT1G59950	" aldo/keto reductase, putative [Arabidopsis thaliana] "
+AT1G59960	" aldo/keto reductase, putative [Arabidopsis thaliana] "
+AT2G21250	" mannose 6-phosphate reductase (NADPH-dependent), putative [Arabidopsis thaliana] "
+AT2G21260	" mannose 6-phosphate reductase (NADPH-dependent), putative [Arabidopsis thaliana] "
+AT5G62420	 aldo/keto reductase family [Arabidopsis thaliana] 
+AT1G54500	 rubredoxin family protein [Arabidopsis thaliana] 
+AT5G17170	 expressed protein [Arabidopsis thaliana] 
+AT5G51010	 expressed protein [Arabidopsis thaliana] 
+AT1G74910	 ADP-glucose pyrophosphorylase family protein [Arabidopsis thaliana] 
+AT4G30570	" GDP-mannose pyrophosphorylase, putative [Arabidopsis thaliana] "
+AT2G34970	 eIF4-gamma/eIF5/eIF2-epsilon domain-containing protein [Arabidopsis thaliana] 
+AT4G18300	 eIF4-gamma/eIF5/eIF2-epsilon domain-containing protein [Arabidopsis thaliana] 
+AT4G39210	 glucose-1-phosphate adenylyltransferase large subunit 3 (APL3) / ADP-glucose pyrophosphorylase [Arabidopsis thaliana] 
+AT5G19220	" glucose-1-phosphate adenylyltransferase, large subunit 1, chloroplast (ADP-glucose pyrophosphorylase) (ADG2) (APL1) [Arabidopsis thaliana] "
+AT5G06550	 hypothetical protein [Arabidopsis thaliana] 
+AT5G63080	 hypothetical protein [Arabidopsis thaliana] 
+AT3G20810	 transcription factor jumonji (jmjC) domain-containing protein [Arabidopsis thaliana] 
+AT1G50590	" pirin, putative [Arabidopsis thaliana] "
+AT3G59220	" pirin, putative [Arabidopsis thaliana] "
+AT3G59260	" pirin, putative [Arabidopsis thaliana] "
+AT2G43120	" pirin, putative [Arabidopsis thaliana] "
+AT2G46880	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT3G10150	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT5G57140	 Calcineurin-like phosphoesterase family [Arabidopsis thaliana] 
+AT1G02400	" gibberellin 2-oxidase, putative / GA2-oxidase, putative [Arabidopsis thaliana] "
+AT1G03400	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G03410	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G04350	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G04380	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G05010	 1-aminocyclopropane-1-carboxylate oxidase / ACC oxidase / ethylene-forming enzyme (ACO) (EAT1) [Arabidopsis thaliana] 
+AT1G06620	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G06640	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G06650	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G12010	" 1-aminocyclopropane-1-carboxylate oxidase, putative / ACC oxidase, putative [Arabidopsis thaliana] "
+AT1G14120	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G14130	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G15540	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G15550	 gibberellin 3-beta-dioxygenase / gibberellin 3 beta-hydroxylase (GA4) [Arabidopsis thaliana] 
+AT1G17010	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G17020	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G28030	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G30040	 gibberellin 2-oxidase / GA2-oxidase (GA2OX2) [Arabidopsis thaliana] 
+AT1G35190	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G44090	 gibberellin 20-oxidase family protein [Arabidopsis thaliana] 
+AT1G47990	" gibberellin 2-oxidase, putative / GA2-oxidase, putative [Arabidopsis thaliana] "
+AT1G49390	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G50960	 gibberellin 20-oxidase-related [Arabidopsis thaliana] 
+AT1G52790	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G52800	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G52820	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT1G55290	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G60980	" gibberellin 20-oxidase, putative [Arabidopsis thaliana] "
+AT1G62380	" 1-aminocyclopropane-1-carboxylate oxidase, putative / ACC oxidase, putative [Arabidopsis thaliana] "
+AT1G78440	 gibberellin 2-oxidase / GA2-oxidase (GA2OX1) [Arabidopsis thaliana] 
+AT1G78550	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G80320	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT1G80330	" gibberellin 3-beta-dioxygenase, putative / gibberellin 3 beta-hydroxylase, putative [Arabidopsis thaliana] "
+AT1G80340	 gibberellin 3-beta-dioxygenase / gibberellin 3 beta-hydroxylase (GA4H) [Arabidopsis thaliana] 
+AT2G19590	" 1-aminocyclopropane-1-carboxylate oxidase, putative / ACC oxidase, putative [Arabidopsis thaliana] "
+AT2G25450	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT2G30830	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT2G30840	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT2G34555	 gibberellin 2-oxidase / GA2-oxidase (GA2OX3) [Arabidopsis thaliana] 
+AT2G36690	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT2G38240	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT2G44800	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G11180	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G12900	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G13610	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G46480	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G46490	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G46500	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G47190	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G49620	" 2-oxoacid-dependent oxidase, putative (DIN11) [Arabidopsis thaliana] "
+AT3G49630	" 2-oxoacid-dependent oxidase, putative [Arabidopsis thaliana] "
+AT3G51240	 naringenin 3-dioxygenase / flavanone 3-hydroxylase (F3H) [Arabidopsis thaliana] 
+AT3G55970	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G60290	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G61400	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT4G03050	" 2-oxoglutarate-dependent dioxygenase, putative (AOP3) [Arabidopsis thaliana] "
+AT4G03060	" 2-oxoglutarate-dependent dioxygenase, putative (AOP2) [Arabidopsis thaliana] "
+AT4G03070	 2-oxoglutarate-dependent dioxygenase (AOP1.2) [Arabidopsis thaliana] 
+AT4G10490	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G10500	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G13400	 expressed protein [Arabidopsis thaliana] 
+AT4G21200	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G21690	 gibberellin 3 beta-hydroxylase family protein [Arabidopsis thaliana] 
+AT4G22880	" leucoanthocyanidin dioxygenase, putative / anthocyanidin synthase, putative [Arabidopsis thaliana] "
+AT4G23340	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G25300	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G25310	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G25420	 gibberellin 20-oxidase [Arabidopsis thaliana] 
+AT5G05600	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G07200	 gibberellin 20-oxidase [Arabidopsis thaliana] 
+AT5G07480	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G08640	 flavonol synthase 1 (FLS1) [Arabidopsis thaliana] 
+AT5G20400	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G20550	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G24530	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G43440	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT5G43450	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT5G51310	 gibberellin 20-oxidase-related [Arabidopsis thaliana] 
+AT5G51810	" gibberellin 20-oxidase, putative [Arabidopsis thaliana] "
+AT5G54000	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G58660	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G59530	" 2-oxoglutarate-dependent dioxygenase, putative [Arabidopsis thaliana] "
+AT5G59540	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G63590	" flavonol synthase, putative [Arabidopsis thaliana] "
+AT5G63600	" flavonol synthase, putative [Arabidopsis thaliana] "
+AT1G77330	" 1-aminocyclopropane-1-carboxylate oxidase, putative / ACC oxidase, putative [Arabidopsis thaliana] "
+AT3G19000	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G19010	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G21420	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G50210	" 2-oxoacid-dependent oxidase, putative [Arabidopsis thaliana] "
+AT4G16330	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT4G16770	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT5G12270	" oxidoreductase, 2OG-Fe(II) oxygenase family [Arabidopsis thaliana] "
+AT5G48020	 expressed protein [Arabidopsis thaliana] 
+AT5G43935	 flavonol synthase family [Arabidopsis thaliana] 
+AT5G63595	" flavonol synthase, putative [Arabidopsis thaliana] "
+AT4G16765	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G63290	 expressed protein [Arabidopsis thaliana] 
+AT1G55020	 lipoxygenase (LOX1) [Arabidopsis thaliana] 
+AT1G67560	 lipoxygenase family protein [Arabidopsis thaliana] 
+AT1G72520	" lipoxygenase, putative [Arabidopsis thaliana] "
+AT3G22400	" lipoxygenase, putative [Arabidopsis thaliana] "
+AT1G17420	" lipoxygenase, putative [Arabidopsis thaliana] "
+AT3G45140	 lipoxygenase (LOX2) [Arabidopsis thaliana] 
+AT1G13750	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT1G13900	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT1G14700	" purple acid phosphatase, putative [Arabidopsis thaliana] "
+AT1G25230	 purple acid phosphatase family protein [Arabidopsis thaliana] 
+AT1G53710	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT1G56360	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT2G01880	 purple acid phosphatase (PAP7) [Arabidopsis thaliana] 
+AT2G01890	" purple acid phosphatase, putative [Arabidopsis thaliana] "
+AT2G03450	 purple acid phosphatase (PAP9) [Arabidopsis thaliana] 
+AT2G16430	 purple acid phosphatase (PAP10) [Arabidopsis thaliana] 
+AT2G18130	 purple acid phosphatase (PAP11) [Arabidopsis thaliana] 
+AT2G27190	 iron(III)-zinc(II) purple acid phosphatase (PAP12) [Arabidopsis thaliana] 
+AT2G32770	 purple acid phosphatase (PAP13) [Arabidopsis thaliana] 
+AT3G07130	 serine/threonine protein phosphatase family protein [Arabidopsis thaliana] 
+AT3G20500	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT3G46120	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT3G52780	 purple acid phosphatase (PAP20) [Arabidopsis thaliana] 
+AT3G52810	 purple acid phosphatase (PAP21) [Arabidopsis thaliana] 
+AT3G52820	 purple acid phosphatase (PAP22) [Arabidopsis thaliana] 
+AT4G13700	 serine/threonine protein phosphatase family protein [Arabidopsis thaliana] 
+AT4G24890	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT4G36350	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT5G34850	 calcineurin-like phosphoesterase family [Arabidopsis thaliana] 
+AT5G50400	 calcineurin-like phosphoesterase family [Arabidopsis thaliana] 
+AT1G52940	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT3G17790	 acid phosphatase type 5 (ACP5) [Arabidopsis thaliana] 
+AT3G23580	 ribonucleoside-diphosphate reductase small chain / ribonucleotide reductase [Arabidopsis thaliana] 
+AT3G27060	" ribonucleoside-diphosphate reductase small chain, putative / ribonucleotide reductase, putative [Arabidopsis thaliana] "
+AT5G40942	 ribonucleoside-diphosphate reductase small chain -related [Arabidopsis thaliana] 
+AT5G14660	 peptide deformylase [Arabidopsis thaliana] 
+AT1G15390	" peptide deformylase, mitochondrial / polypeptide deformylase 1A (PDF1A) [Arabidopsis thaliana] "
+AT3G47810	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT2G40300	" ferritin, putative [Arabidopsis thaliana] "
+AT3G11050	" ferritin, putative [Arabidopsis thaliana] "
+AT3G56090	" ferritin, putative [Arabidopsis thaliana] "
+AT5G01600	 ferritin 1 precursor [Arabidopsis thaliana] 
+AT1G15960	" NRAMP metal ion transporter 6, putative (NRAMP6) [Arabidopsis thaliana] "
+AT1G47240	" NRAMP metal ion transporter 2, putative (NRAMP2) [Arabidopsis thaliana] "
+AT1G80830	 NRAMP metal ion transporter 1 (NRAMP1) [Arabidopsis thaliana] 
+AT2G23150	 NRAMP metal ion transporter 3 (NRAMP3) [Arabidopsis thaliana] 
+AT4G18790	" NRAMP metal ion transporter 5, putative (NRAMP5) [Arabidopsis thaliana] "
+AT5G03280	 ethylene-insensitive 2 (EIN2) [Arabidopsis thaliana] 
+AT5G67330	 NRAMP metal ion transporter 4 (NRAMP4) [Arabidopsis thaliana] 
+AT5G02710	 expressed protein [Arabidopsis thaliana] 
+AT1G03445	 kelch repeat-containing protein / serine/threonine phosphoesterase family protein [Arabidopsis thaliana] 
+AT1G07010	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT1G08420	 kelch repeat-containing protein / serine/threonine phosphoesterase family protein [Arabidopsis thaliana] 
+AT1G10430	 serine/threonine protein phosphatase PP2A-1 catalytic subunit (PP2A1) [Arabidopsis thaliana] 
+AT1G48120	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT1G50370	" serine/threonine protein phosphatase, putative [Arabidopsis thaliana] "
+AT1G59830	 serine/threonine protein phosphatase PP2A-2 catalytic subunit (PP2A2) [Arabidopsis thaliana] 
+AT1G64040	 serine/threonine protein phosphatase PP1 isozyme 3 (TOPP3) / phosphoprotein phosphatase 1 [Arabidopsis thaliana] 
+AT1G69960	 serine/threonine protein phosphatase PP2A-5 catalytic subunit (PP2A5) [Arabidopsis thaliana] 
+AT2G27210	 kelch repeat-containing serine/threonine phosphoesterase family protein [Arabidopsis thaliana] 
+AT2G29400	 serine/threonine protein phosphatase PP1 isozyme 1 (TOPP1) / phosphoprotein phosphatase 1 [Arabidopsis thaliana] 
+AT2G39840	 serine/threonine protein phosphatase PP1 isozyme 4 (TOPP4) / phosphoprotein phosphatase 1 [Arabidopsis thaliana] 
+AT3G05580	" serine/threonine protein phosphatase, putative [Arabidopsis thaliana] "
+AT3G19980	 serine/threonine protein phosphatase (STPP) [Arabidopsis thaliana] 
+AT3G46820	 serine/threonine protein phosphatase PP1 isozyme 5 (TOPP5) / phosphoprotein phosphatase 1 [Arabidopsis thaliana] 
+AT4G03080	 kelch repeat-containing serine/threonine phosphoesterase family protein [Arabidopsis thaliana] 
+AT4G26720	 serine/threonine protein phosphatase PP-X isozyme 1 (PPX1) [Arabidopsis thaliana] 
+AT5G10900	 serine/threonine protein phosphatase [Arabidopsis thaliana] 
+AT5G55260	 serine/threonine protein phosphatase [Arabidopsis thaliana] 
+AT5G59160	 protein phosphatase 1A [Arabidopsis thaliana] 
+AT1G18480	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT2G42500	 serine/threonine protein phosphatase PP2A-3 catalytic subunit (PP2A3) [Arabidopsis thaliana] 
+AT2G42810	" serine/threonine protein phosphatase, putative [Arabidopsis thaliana] "
+AT3G09960	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT3G09970	 calcineurin-like phosphoesterase family protein [Arabidopsis thaliana] 
+AT3G58500	 serine/threonine protein phosphatase PP2A-4 catalytic subunit (PP2A4) [Arabidopsis thaliana] 
+AT4G11240	 serine/threonine protein phosphatase PP1 isozyme 6 (PP1BG) (TOPP6) [Arabidopsis thaliana] 
+AT5G27840	 serine/threonine protein phosphatase type one(PP1) [Arabidopsis thaliana] 
+AT5G43380	 serine/threonine protein phosphatase type on(TOPP7) [Arabidopsis thaliana] 
+AT5G63870	 ser/thr protein phosphatase catalytic subunit [Arabidopsis thaliana] 
+AT4G12740	 adenine-DNA glycosylase-related / MYH-related [Arabidopsis thaliana] 
+AT1G05900	 endonuclease-related [Arabidopsis thaliana] 
+AT2G22260	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT3G14160	" oxidoreductase, 2OG-Fe(II) oxygenase family protein [Arabidopsis thaliana] "
+AT2G28420	 lactoylglutathione lyase family protein / glyoxalase I family protein [Arabidopsis thaliana] 
+AT1G11840	" lactoylglutathione lyase, putative / glyoxalase I, putative [Arabidopsis thaliana] "
+AT1G67280	" lactoylglutathione lyase, putative / glyoxalase I, putative [Arabidopsis thaliana] "
+AT5G57040	 expressed protein [Arabidopsis thaliana] 
+AT1G15380	 lactoylglutathione lyase family protein / glyoxalase I family protein [Arabidopsis thaliana] 
+AT1G80160	 lactoylglutathione lyase family protein / glyoxalase I family protein [Arabidopsis thaliana] 
+AT2G32090	 lactoylglutathione lyase family protein / glyoxalase I family protein [Arabidopsis thaliana] 
+AT1G08110	" lactoylglutathione lyase, putative / glyoxalase I, putative [Arabidopsis thaliana] "
+AT2G39670	 radical SAM domain-containing protein [Arabidopsis thaliana] 
+AT1G52160	 metallo-beta-lactamase family protein [Arabidopsis thaliana] 
+AT1G61010	" cleavage and polyadenylation specificity factor, putative [Arabidopsis thaliana] "
+AT2G01730	 metallo-beta-lactamase family protein [Arabidopsis thaliana] 
+AT2G31350	" hydroxyacylglutathione hydrolase, putative / glyoxalase II, putative [Arabidopsis thaliana] "
+AT3G10850	" hydroxyacylglutathione hydrolase, cytoplasmic / glyoxalase II (GLX2-2) [Arabidopsis thaliana] "
+AT3G13800	 metallo-beta-lactamase family protein [Arabidopsis thaliana] 
+AT4G33540	 metallo-beta-lactamase family protein [Arabidopsis thaliana] 
+AT5G63420	 hydrolase family [Arabidopsis thaliana] 
+AT1G06130	" hydroxyacylglutathione hydrolase, putative / glyoxalase II, putative [Arabidopsis thaliana] "
+AT1G25375	 metallo-beta-lactamase family protein [Arabidopsis thaliana] 
+AT1G53580	" hydroxyacylglutathione hydrolase, putative / glyoxalase II, putative [Arabidopsis thaliana] "
+AT1G67550	" urease, putative / urea amidohydrolase, putative [Arabidopsis thaliana] "
+AT4G22930	" dihydroorotase, mitochondrial / DHOase (PYR4) [Arabidopsis thaliana] "
+AT3G55850	 amidohydrolase family protein [Arabidopsis thaliana] 
+AT4G04955	 amidohydrolase family protein [Arabidopsis thaliana] 
+AT5G12200	 dihydropyrimidinase [Arabidopsis thaliana] 
+AT3G19630	 radical SAM domain-containing protein [Arabidopsis thaliana] 
+AT1G72090	 radical SAM domain-containing protein / TRAM domain-containing protein [Arabidopsis thaliana] 

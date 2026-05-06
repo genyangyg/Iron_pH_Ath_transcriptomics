@@ -1,28 +1,28 @@
 # ================================
-# 02_Build_Universal_DEG_Table.R
+# 02_build_universal_deg_table.R
 # ================================
 
-suppressPackageStartupMessages({
   library(dplyr)
   library(tidyr)
   library(readxl)
   library(writexl)
   library(DESeq2)
-})
 
 # ---- Paths ----
-output_dir <- "E:/桌面/Iron Project_Gen/!Transcriptomic experiment/!Data Analysis/Ath_featurecount_Ath_root/!For TRR paper/Gene lists"
+input_dir <- "results/01_DESeq2_model"
+output_dir <- "results/02_DEG_classification"
 
-dds_rds_file         <- file.path(output_dir, "dds_Fe_pH_batch_design.rds")
-res_list_rds_file    <- file.path(output_dir, "res_list_Fe_pH_batch_design.rds")
-gene_sets_rds_file   <- file.path(output_dir, "gene_sets_Fe_pH_batch_design.rds")
-norm_counts_rds_file <- file.path(output_dir, "norm_counts_Fe_pH_batch_design.rds")
 
-annot_file <- "E:/桌面/Iron Project_Gen/!Transcriptomic experiment/!Data Analysis/Ath_featurecount_Ath_root/!For TRR paper/Gene lists/Improve gene annotations/01_Ath_TAIR10_gene_annotation_all_filled_bHLH_Metal_Ionome_added_75_and_26_DEGs.xlsx"
+dds_rds_file         <- file.path(input_dir, "dds_deseq2.rds")
+res_list_rds_file    <- file.path(input_dir, "deg_results.rds")
+gene_sets_rds_file   <- file.path(input_dir, "gene_sets_classified.rds")
+norm_counts_rds_file <- file.path(input_dir, "norm_counts.rds")
+
+annot_file <- "data/annotation/internal/Ath_TAIR10_gene_annotation_processed.xlsx"
 
 output_file <- file.path(
   output_dir,
-  "02_Ath_root_universal_DEG_table_with_annotation_and_expression_20260505.xlsx"
+  "universal_DEG_table.xlsx"
 )
 
 # ---- Load objects from script 1 ----
@@ -44,33 +44,6 @@ annotate_joint <- function(gene_vec, res_list, annot_df, norm_counts, conditions
   df <- left_join(df, annot_df, by = "Gene_ID")
   
   # DESeq2 statistics
-  res_label_map <- list(
-    Fe_5.5 = c(
-      "Log2FC (LFe vs. WFe) at pH 5.5",
-      "P-value (LFe vs. WFe) at pH 5.5"
-    ),
-    Fe_7.5 = c(
-      "Log2FC (LFe vs. WFe) at pH 7.5",
-      "P-value (LFe vs. WFe) at pH 7.5"
-    ),
-    pH_WFe = c(
-      "Log2FC (pH 7.5 vs. pH 5.5) at WFe",
-      "P-value (pH 7.5 vs. pH 5.5) at WFe"
-    ),
-    pH_LFe = c(
-      "Log2FC (pH 7.5 vs. pH 5.5) at LFe",
-      "P-value (pH 7.5 vs. pH 5.5) at LFe"
-    ),
-    combined = c(
-      "Log2FC (LFe_pH 7.5 vs. WFe_pH 5.5)",
-      "P-value (LFe_pH 7.5 vs. WFe_pH 5.5)"
-    ),
-    interaction = c(
-      "Log2FC (Interaction: Fe × pH)",
-      "P-value (Interaction: Fe × pH)"
-    )
-  )
-  
   res_label_map <- list(
     Fe_5.5 = c(
       "Log2FC (LFe vs. WFe) at pH 5.5",
@@ -221,17 +194,8 @@ joint_df[["Combined/Interaction"]][joint_df$Gene_ID %in% gene_sets$combined_spec
 joint_df[["Combined/Interaction"]][joint_df$Gene_ID %in% gene_sets$interaction_only]         <- "Interaction_only"
 
 # ---- Move the assignment columns close to the gene info ----
-if ("Gene_Description" %in% colnames(joint_df)) {
-  joint_df <- joint_df %>%
-    relocate(`Fe-regulated`, `pH-regulated`, `Combined/Interaction`, .after = "Gene_Description")
-} else if ("Gene_Symbol" %in% colnames(joint_df)) {
-  joint_df <- joint_df %>%
-    relocate(`Fe-regulated`, `pH-regulated`, `Combined/Interaction`, .after = "Gene_Symbol")
-} else {
-  joint_df <- joint_df %>%
-    relocate(`Fe-regulated`, `pH-regulated`, `Combined/Interaction`, .after = "Gene_ID")
-}
-
+joint_df <- joint_df %>%
+  relocate(`Fe-regulated`, `pH-regulated`, `Combined/Interaction`, .after = "Gene_Description")
 
 
 # ---- Write output ----

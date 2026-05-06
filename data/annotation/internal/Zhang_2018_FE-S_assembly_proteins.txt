@@ -1,0 +1,52 @@
+AGI code	Short name	Localization	Pathway	Proposed functions
+AT4G21090	ADX1/MDFX2	Mitochondria 	ISC 	"Electron transfer, Electron donation"
+AT4G05450	ADX2/MDFX1	Mitochondria  	ISC 	"Electron transfer, Electron donation"
+AT4G32360	ADXR/MFDR	Mitochondria 	ISC	"Reductase,Electron donation/Electron transfer
+"
+AT1G68310	AE7/CIA2	Cytosol 	CIA	Formation of a complex and association with target Fe-S proteins/DUF59 domain
+AT1G79010	Alpha-helical ferredoxinb	Mitochondria  	ISC	Interaction with other proteins involved in mitochondrial iron–sulfur cluster assembly
+AT1G16700	Alpha-helical ferredoxinb	Mitochondria  	ISC	Interaction with other proteins involved in mitochondrial iron–sulfur cluster assembly
+AT5G58270	ATM3/STA1/ABCB25	Cytosol 	CIA 	Cysteine desulfurase (Persulfide generation)/ABC transporter  
+AT2G26060	CIA1/emb1345	Cytosol 	CIA 	Formation of a complex and association with target Fe-S proteins/WD40 protein
+AT5G18400	DRE2/CIAPIN1	Cytosol 	CIA 	"Electron transfer,Electron donation/Electron transfer"
+AT4G03240	FH/frataxin	Mitochondria  	ISC 	"Putative Fe donor,regulator of NFS1"
+AT3G54900	GRXS14	Plastids  	SUF	Glutathione-dependent redoxins/ 2Fe-2S transfer
+AT3G15660	GRXS15	Mitochondria 	ISC	Glutathione-dependent redoxins/ Glutaredoxin
+AT2G38270	GRXS16	Plastids  	SUF 	Glutathione-dependent redoxins/ 2Fe-3S transfer
+AT4G04950	GRXS17	Cytosol 	CIA	mediate [2Fe-2S] cluster delivery to cytosolic protein targets
+AT3G24430	HCF101	Plastids 	SUF 	"Assembly of Fe-S clusters on selected proteins, ATP dependent /4Fe-4S insertion"
+AT4G37910	HSCA1/mtHSC70-1	Mitochondria  	"ISC, CIA"	HSP70-type chaperone
+AT5G09590	HSCA2/mtHSC70-5	Mitochondria 	ISC 	HSP70-type chaperone
+AT5G06410	HSCB	Mitochondria  	"ISC, CIA "	Co-chaperone
+AT4G12130	IBA57	Mitochondria 	ISC 	Assembly of Fe-S clusters on aconitase and radical SAM proteins in yeast/Aminomethyltransferase
+AT1G60990	IBA57.2	Plastids  	SUF 	Glycine cleavage T-protein family
+AT4G19540	INDH	Mitochondria 	ISC 	"Assembly of Fe-S clusters on selected proteins, ATP dependent/ Cluster transfer/insertion"
+AT2G16710	ISA1/ISCA2	Mitochondria 	ISC 	"Fe-S carrier (A-type), Fe donor?/Cluster transfer"
+AT2G36260	ISCA3	Mitochondria  	ISC 	"Fe-S carrier (A-type), Fe donor?  / Cluster transfer"
+AT5G03905	ISCA4	Mitochondria  	ISC 	"Fe-S carrier (A-type),Fe donor?  / Cluster transfer"
+AT5G61220	ISD11	Mitochondria  	ISC 	"Necessary for NFS2 and NFS1 activity, respectively/Interacting with NFS1"
+AT4G22220	ISU1/IscU1	Mitochondria 	ISC 	Fe-S cluster scaffold
+AT3G01020	ISU2/IscU2 	Mitochondria 	ISC 	Fe-S cluster scaffold
+AT4G04080	ISU3/IscU3 	Mitochondria 	ISC 	Fe-S cluster scaffold
+AT5G48120	MET18/MMS19	Cytosol 	CIA 	Formation of a complex and association with target Fe-S proteins
+AT4G26780	MGE1ab	Mitochondria  	ISC	Co-chaperone GrpE family protein
+AT5G55200	MGE1bb	Mitochondria  	ISC	Co-chaperone GrpE family protein
+AT3G09380	MIP18/ CIA2B	Cytosol 	CIA	Formation of a complex and association with target Fe-S proteins/DUF59 domain
+AT4G16440	NAR1/GOLLUM	Cytosol 	CIA 	"Formation of a complex and association with target Fe-S proteins/[FeFe]-hydrogenase-like
+"
+AT5G50960	NBP35	Cytosol 	CIA 	Fe-S cluster scaffold
+AT5G65720	NFS1/NifS1	Mitochondria  	ISC 	Cysteine desulfurase (Persulfide generation)
+AT1G08490	NFS2/CpNifS/CpSufS	Plastids 	SUF 	Cysteine desulfurase (Persulfide generation)
+AT4G01940	NFU1	Plastids  	SUF	Fe-S carrier
+AT5G49940	NFU2/CnfU	Plastids  	SUF	Fe-S carrier
+AT4G25910	NFU3	Plastids  	SUF	Fe-S carrier
+AT3G20970	NFU4/NFU-III	Mitochondria  	ISC	Fe-S carrier
+AT1G51390	NFU5/NFU-I	Mitochondria 	ISC 	Fe-S carrier
+AT1G10500	SUFA/CpIscA	Plastids  	SUF 	"Fe-S carrier (A-type), Fe donor?  / Cluster transfer"
+AT4G04770	SUFB/NAP1	Plastids 	SUF 	Fe-S cluster scaffold
+AT3G10670	SUFC/NAP7	Plastids 	SUF 	Fe-S cluster scaffold
+AT1G32500	SUFD/NAP6	Plastids 	SUF	Fe-S cluster scaffold
+AT4G26500	SUFE1-BolAa	"Plastids, Mitochondria "	"SUF, ISC "	"Necessary for NFS2 and NFS1 activity,respectively/Interacting with NFS1"
+AT1G67810	SUFE2	Plastids 	SUF	"Necessary for NFS2 and NFS1 activity, respectively"
+AT5G50210	SUFE3-NADAa	Plastids  	SUF 	"Necessary for NFS2 and NFS1 activity,respectively; Quinolinate synthase"
+AT3G02280	TAH18/ATR3	Cytosol 	CIA	"Reductase, Electron donation/Electron transfer"

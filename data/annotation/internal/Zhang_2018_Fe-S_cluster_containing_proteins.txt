@@ -1,0 +1,125 @@
+AGI code	Short name	Localization	Fe-S cluster type	Full name annotation
+AT4G02580	24-kDa	Mitochondria	[2Fe-2S]	NADH:ubiquinone oxidoreductase (Complex I); Fe-S binding proteins of peripheral arm 
+AT5G08530	51-kDa	Mitochondria	"[4Fe-4S], FMN"	NADH:ubiquinone oxidoreductase (Complex I); Fe-S binding proteins of peripheral arm 
+AT5G37510	75-kDa	Mitochondria	"[2Fe-2S], 2x[4Fe-4S]"	NADH:ubiquinone oxidoreductase (Complex I); Fe-S binding proteins of peripheral arm 
+AT5G20960	AAO1	Cytosol	"2x[2Fe-2S], FAD, Mococ"	"Aldehyde oxidase, last step of abscisic acid biosynthesis (AAO3) "
+AT3G43600	AAO2	Cytosol	"2x[2Fe-2S], FAD, Mococ"	"Aldehyde oxidase, last step of abscisic acid biosynthesis (AAO3) "
+AT2G27150	AAO3	Cytosol	"2x[2Fe-2S], FAD, Mococ"	"Aldehyde oxidase, last step of abscisic acid biosynthesis (AAO3) "
+AT1G04580	AAO4	Cytosol	"2x[2Fe-2S], FAD, Mococ"	"Aldehyde oxidase, last step of abscisic acid biosynthesis (AAO3) "
+AT3G13640	ABCE1 (RLI1)	Cytosol (P)	2x[4Fe-4S]b	ABC transporter E family member; involved in ribosome assembly (by similarity) 
+AT4G19210	ABCE2 (RLI2)	Cytosol (P)	3x[4Fe-4S]b	ABC transporter E family member; involved in ribosome assembly (by similarity) 
+AT4G35830	ACO1	Cytosol	[4Fe-4S]	"Aconitase, aconitate hydratase "
+AT4G26970	ACO2	Mitochondria	[4Fe-4S]	"Aconitase, aconitate hydratase "
+AT2G05710	ACO3	Mitochondria	[4Fe-4S]	"Aconitase, aconitate hydratase "
+AT4G21090	ADX1/MFDX2*	Mitochondria	[2Fe-2S]	Adrenodoxin / mitochondrial ferredoxin 
+AT4G05450	ADX2/MFDX1*	Mitochondria	[2Fe-2S]	Adrenodoxin / mitochondrial ferredoxin 
+AT1G16700	Alpha-helical ferredoxin*	Mitochondria	2x[4Fe-4S]	NADH:ubiquinone oxidoreductase (Complex I); Fe-S binding proteins of peripheral arm 
+AT1G79010	Alpha-helical ferredoxin*	Mitochondria	2x[4Fe-4S]	NADH:ubiquinone oxidoreductase (Complex I); Fe-S binding proteins of peripheral arm 
+AT4G04610	1-Apr	Plastids	[4Fe-4S]	"Adenosine 5’-phosphosulfate (APS) reductase, first step of reductive sulfite assimilation "
+AT1G62180	2-Apr	Plastids	[4Fe-4S]	"Adenosine 5’-phosphosulfate (APS) reductase, first step of reductive sulfite assimilation"
+AT4G21990	3-Apr	Plastids	[4Fe-4S]	"Adenosine 5’-phosphosulfate (APS) reductase, first step of reductive sulfite assimilation"
+AT2G16570	ATASE1	Plastids	[4Fe-4S]b	"Gln phosphoribosyl pyrophosphate amido-transferase, also called amidophosphoribosyl"
+AT4G34740	ATASE2	Plastids	[4Fe-4S]b	"Gln phosphoribosyl pyrophosphate amido-transferase, also called amidophosphoribosyl"
+AT4G38880	ATASE3	Unknown	[4Fe-4S]b	"Transferase, or GPAT; involved in purine biosynthesis "
+AT2G43360	BIO2	Mitochondria	"[2Fe-2S], [4Fe–4S]"	Biotin synthase 
+AT1G44446	CAO	Plastidenvelope	Rieske [2Fe-2S]	Chlorophyllide a oxygenase 
+AT2G42750	DJC77	Plastids	[4Fe-4S]b	Chloroplast DnaJ protein; CDJ3 and CDJ4 have been reported from Chlamydomonas reinhardtii; the At homologues are uncharacterized. 
+AT3G05345	DJC82	Plastids	[4Fe-4S]b	Chloroplast DnaJ protein; CDJ3 and CDJ4 have been reported from Chlamydomonas reinhardtii; the At homologues are uncharacterized. 
+AT5G23240	DJC76	Plastids	[4Fe-4S]b	Chloroplast DnaJ protein; CDJ3 and CDJ4 have been reported from Chlamydomonas reinhardtii; the At homologues are uncharacterized. 
+AT2G39670	CFR1	Cytosol 	[4Fe-4S]b	Radical SAM superfamily protein; putative ribosomal RNA large subunit methyltransferase (related to Cfr/RlmN) 
+AT3G19630	CFR2	Cytosol 	[4Fe-4S]b	Radical SAM superfamily protein; putative ribosomal RNA large subunit methyltransferase(related to Cfr/RlmN)
+AT4G29890	CMO	Plastids	Rieske [2Fe-2S]	"Choline monooxygenase, involved in betaine synthesis in spinach; uncharacterized in Arabidopsis "
+AT2G31955	CNX2	Mitochondria	[4Fe-4S]b	First step of Mococ biosynthesis; radical SAM enzyme
+AT3G23940	DHAD	Plastids (P)	[4Fe-4S] in E.coli enzyme; [2Fe-2S] in spinach	"Dihydroxyacid dehydratase, homologous to bacterial IlvD; uncharacterized in Arabidopsis  "
+AT5G04560	DME	Nucleus	[4Fe-4S]b	Encodes a DNA glycosylase DEMETER (DME). Responsible for endosperm maternal-allele-specific hypomethylation at the MEDEA (MEA) gene 
+AT2G36490	DML1(ROS1)	Nucleus	[4Fe-4S]b	A repressor of transcriptional gene silencing. Functions by demethylating the target promoter DNA
+AT3G10010	DML2	Nucleus	[4Fe-4S]b	Encodes a protein with DNA glycosylase activity that is involved in maintaining methylation marks
+AT4G34060	DML3	Nucleus	[4Fe-4S]b	Encodes a protein with 5-meC and thymine-DNA glycosylase activity with a preference for CpG and CpHpG sequences. Involved in maintaining methylation marks
+AT1G20720	DNA helicase	Nucleus	[4Fe-4S]b	"Homologues of human FANCJ, related to RAD3/XPD; uncharacterized in Arabidopsis. See also RAD3 below. "
+AT1G20750	DNA helicase	Nucleus	[4Fe-4S]b	"Homologues of human FANCJ, related to RAD3/XPD; uncharacterized in Arabidopsis. See also RAD3 below. "
+AT1G79890	DNA helicase	Nucleus (P)	[4Fe-4S]b	Homologue of human CHLR involved in sister chromatid pairing; uncharacterized in plants. 
+AT1G79950	RTEL1	Nucleus	[4Fe-4S]b	"Regulator of Telomere Elongation Helicase1, RTEL1; Homologues of human FANCJ, related to RAD3/XPD; uncharacterized in Arabidopsis. See also RAD3 below. "
+AT1G67320	POLA3	Nucleus (P)	[4Fe-4S]b	Large subunit of DNA polymerase:primase that synthesizes small RNA primers during discontinuous DNA replication. 
+AT3G59630	DPH2	Nucleus (P)	[4Fe-4S]b	"Homologue of Saccharomyces cerevisiae Dph2; putative radical SAM enzyme involved in diphthamide biosynthesis, a histidine modification on EF2 (elongation factor), which is the target of Diphtheria toxin."
+AT5G62030	DPH1	Nucleus (P)	[4Fe-4S]b	"Homologue of Saccharomyces cerevisiae Dph1; putative radical SAM enzyme involved in diphthamide biosynthesis, a histidine modification on EF2 (elongation factor), which is the target of Diphtheria toxin. "
+AT5G18400	DRE2/CIAPIN1*	Cytosol (P)	"[2Fe-2S], [4Fe-4S]b"	Homologue of human CIAPIN1 
+AT1G03055	DWARF27A	Plastids (rice homologue)	[2Fe-2S]?	beta-carotene isomerase D27-like protein; homologue of the characterized rice gene Os11g37650 involved in strigolactone biosynthesis.
+AT1G64680	DWARF27B	Plastids (rice homologue)	[2Fe-2S]?	beta-carotene isomerase D27-like protein; homologue of the characterized rice gene Os11g37650 involved in strigolactone biosynthesis.
+AT5G50320	ELP3	Nucleus	[4Fe-4S]b	Component of elongator complex; radical SAM protein 
+AT2G43400	ETF:QO	Mitochondria	"[4Fe-4S], FAD"	Electron-Transfer Flavoprotein: Ubiquinone Oxidoreductase
+AT1G10960	FD1 (PETF2)	Plastids	[2Fe-2S]	Ferredoxin (see Adrenodoxin for mitochondrial ferredoxins) 
+AT1G60950	FD2 (PETF)	Plastids	[2Fe-2S]	Ferredoxin (see Adrenodoxin for mitochondrial ferredoxins) 
+AT2G27510	FD3	Plastids	[2Fe-2S]	Ferredoxin (see Adrenodoxin for mitochondrial ferredoxins) 
+AT5G10000	FD4	Plastids	[2Fe-2S]	Ferredoxin (see Adrenodoxin for mitochondrial ferredoxins) 
+AT2G04700	_FTR	Plastids	[4Fe-4S]	"Ferredoxin:thioredoxin reductase, _-subunit (FTRC) "
+AT5G53460	GLT1	Plastids	"2x[4Fe-4S]b, FAD [3Fe-4S] FMN"	Glutamate synthase [NADH] (NADH-GOGAT) 
+AT5G04140	GLU1	Plastids	"[3Fe-4S], FMN"	Glutamate synthase [Fd] (Fd-GOGAT) 
+AT2G41220	GLU2	Mitochondria	"[3Fe-4S], FMN"	Glutamate synthase [Fd] (Fd-GOGAT) 
+AT3G54900	GRXS14*	Plastids  	[2Fe-2S]	Glutathione-dependent redoxins/ 2Fe-2S transfer
+AT3G15660	GRXS15*	Mitochondria 	[2Fe-2S]	Glutathione-dependent redoxins/ Glutaredoxin
+AT2G38270	GRXS16*	Plastids  	[2Fe-2S]	Glutathione-dependent redoxins/ 2Fe-3S transfer
+AT4G04950	GRXS17*	"Cytosol, nucleus"	[2Fe-2S]	"A monothiol glutaredoxin that is a critical component involved in ROS accumulation, auxin signaling, and temperature-dependent postembryonic growth in plants"
+AT1G04620	HCAR	Plastids	2x[4Fe-4S]	Degradation of light-harvesting complexes and is necessary for efficient photosynthesis by balancing the chlorophyll a/b ratio
+AT3G24430	HCF101*	Plastids	[4Fe-4S]	Mutant displays high chlorophyll fluorescence; protein is required for PSI assembly and FTR
+AT5G63290	HemN	Mitochondria (P)	[4Fe-4S]b	Coproporphyrinogen oxidase-related; radical SAM enzyme; uncharacterized. 
+AT4G19540	INDH*	Mitochondria	[4Fe-4S]b	"Homologue of IND1, Iron-sulfur protein required for NADH Dehydrogenase "
+AT4G13430	IPMI (IIL1)	Plastids	[4Fe-4S]b	"3-isopropylmalate isomerase or IPM dehydratase, the 2nd step in leucine biosynthesis. Also involved in glucosinolate biosynthesis in Arabidopsis. "
+AT1G10500	SUFA/CpIscA*	Plastids Mitochondria (P)	[4Fe-4S]	IscA1 / SufA Fe-S carrier protein
+AT2G16710	ISCA2/ISA1*	Plastids Mitochondria (P)	[4Fe-4S]	IscA1 / SufA Fe-S carrier protein
+AT2G36260	ISCA(SUFA)-like*	Plastids Mitochondria (P)	[4Fe-4S]	IscA1 / SufA Fe-S carrier protein 
+AT5G03905	ISCA4*	Plastids Mitochondria (P)	[4Fe-4S]	IscA1 / SufA Fe-S carrier protein  
+AT5G60600	ISPG	Plastids	[4Fe-4S]	"4-hydroxy-3-methylbut-2-enyl diphosphate synthase, involved in isoprenoid biosynthesis "
+AT4G22220	ISU1/IscU1*	Mitochondria	[4Fe-4S]	Iron-sulfur scaffold protein 
+AT3G01020	ISU2*	Mitochondria	[4Fe-4S]	Iron-sulfur scaffold protein 
+AT4G04080	ISU3*	Mitochondria	[4Fe-4S]	Iron-sulfur scaffold protein 
+AT2G20860	LIP1	Mitochondria	2x[4Fe-4S]	Lipoic acid synthase; radical SAM enzyme 
+AT5G08415	LIP1p	Plastids	2x[4Fe-4S]	Lipoic acid synthase; radical SAM enzyme 
+AT4G36390	MIAB	Mito/Plastids (P)	2x[4Fe-4S]	Homologue of E.coli MiaB; radical SAM enzyme 
+AT5G51720	MitoNEET	"Mitochondria, inter membrane space (P)"	"[2Fe-2S]b, with 3 Cys and 1 His ligands"	Homologue of human MitoNEET; uncharacterized in Arabidopsis 
+AT1G08060	MOM1/MOM	Nucleus	[2Fe-2S]	Transcriptional silencer
+AT1G72090	MTAB	"Cytosol, endoplasmic reticulum "	2x[4Fe-4S]	"Methylthiotransferase, involved in tRNA methylthiolation"
+AT4G16440	NAR1/GOLLUM*	Cytosol	2x[4Fe-4S]b	[FeFe]-hydrogenase-like protein involved in the assembly of cytosolic/nuclear Fe-S proteins  
+AT5G50960	NBP35*	Cytosol	stable [4Fe-4S] and labile bridged [4Fe-4S]	Nucleotide-binding protein 35 kDa; Fe-S scaffold 
+ATCG01090	NdhI	Plastids	2x[4Fe-4S]	NAD(P)H dehydrogenase complex 
+ATCG00430	NdhK	Plastids	[4Fe-4S]	NAD(P)H dehydrogenase complex 
+AT4G01940	NFU1*	Plastids	[2Fe-2S]or [4Fe-4S]	"NifU-like protein, functioning as Fe-S scaffold protein or Fe-S carrier protein "
+AT5G49940	NFU2/CnfU*	Plastids	[2Fe-2S]or [4Fe-4S]	"NifU-like protein, functioning as Fe-S scaffold protein or Fe-S carrier protein "
+AT4G25910	NFU3*	Plastids	[2Fe-2S]or [4Fe-4S]	"NifU-like protein, functioning as Fe-S scaffold protein or Fe-S carrier protein "
+AT3G20970	NFU4/NFU-III*	Mitochondria	[2Fe-2S]or [4Fe-4S]	"NifU-like protein, functioning as Fe-S scaffold protein or Fe-S carrier protein "
+AT1G51390	NFU5*	Mitochondria	[2Fe-2S] or [4Fe-4S]	"NifU-like protein, functioning as Fe-S scaffold protein or Fe-S carrier protein "
+AT2G15620	NIR1	Plastids	"[4Fe-4S], sirohaem"	Nitrite reductase 
+AT2G31450	NTH1	Nucleus	[4Fe-4S]b	Endonuclease III homologue 
+AT3G44880	PAO	Plastids	Rieske [2Fe-2S]	"Pheophorbide a oxygenase, involved in chlorophyll breakdown. Other names: LLS1,ACD1  "
+AT4G03280	PetC	"Plastid, thylakoids"	Rieske [2Fe-2S]	Rieske protein of cytochrome b6f complex 
+AT1G08260	POL2A(TIL1)	Nucleus	[4Fe-4S]b	DNA polymerase epsilon catalytic subunit
+AT2G27120	POL2B	Nucleus	[4Fe-4S]b	A protein with similarity to DNA polymerase epsilon catalytic subunit
+AT5G67100	POLA1(ICU2)	Nucleus	[4Fe-4S]b	Putative catalytic subunit of the DNA polymerase alpha
+AT5G63960	POLD1(GIS5)	Nucleus	[4Fe-4S]b	Catalytic subunits of DNA polymerase _
+ATCG00350	PsaA	"Plastid,thylakoids"	"[4Fe-4S] bridged between psaA andpsaB, known as FX"	Photosystem I subunits 
+ATCG00340	PsaB	"Plastid,thylakoids"	"[4Fe-4S] bridged between psaA and psaB, known as FX"	Photosystem I subunits 
+ATCG01060	PsaC	"Plastid,thylakoids"	"2x[4Fe-4S] in psaC (FA,FB)"	Photosystem I subunits 
+AT5G11770	PSST (20-kDa)	Mitochondria	[4Fe-4S]	NADH:ubiquinone oxidoreductase (Complex I); Fe-S binding proteins of peripheral arm 
+AT4G25650	PTC52	Plastids	Rieske [2Fe-2S]b	Similar to ACD1. Leaves of antisense ACD1-like plants turn yellow in darkness like wild-type whereas antisense ACD1 plants remain dark after five days of dark treatment.
+AT1G03190	RAD3 (UVH6)	Nucleus	[4Fe-4S]b	DNA repair helicase (XPD-like) 
+AT1G67500	REV3	Nucleus	[4Fe-4S]b	Catalytic subunit of DNA polymerase zeta
+AT5G13430	Rieske protein	Mitochondria	Rieske [2Fe-2S]	Rieske subunit of ubiquinol cytochrome c reductase (complex III); See also petC 
+AT5G13440	Rieske protein	Mitochondria	Rieske [2Fe-2S]	Rieske subunit of ubiquinol cytochrome c reductase (complex III); See also petC 
+AT1G60230	RlmN	Mitochondria (P)	[4Fe-4S]b	"Homologue of E.coli RlmN, involved in rRNA modification; radical SAM enzyme "
+AT1G60620	RPAC43	Nucleus	[4Fe-4S]b	"RNA polymerase I and III, subunit D "
+AT1G60850	RPAC42	Nucleus	[4Fe-4S]b	"RNA polymerase I and III, subunit D "
+AT2G44270	ROL5/ Ncs6p	Cytosol	[3Fe-4S]	Catalyze the formation of 2-thiouridine (s2U)
+AT3G27180	RUMA	Plastids	[4Fe-4S]b	putative plastid RNA methyltransferase; S-adenosyl-L-methionine-dependent methyltransferase superfamily protein
+AT3G21300	RUMA(TRM2A)	Cytosol 	[4Fe-4S]b	"tRNA METHYLTRANSFERASE 2A, RNA methyltransferase family protein"
+AT3G27380	SDH2-1	Mitochondria	"[2Fe-2S], [3Fe-4S], [4Fe-4S]"	Subunit of succinate dehydrogenase (complex II) 
+AT5G40650	SDH2-2	Mitochondria	"[2Fe-2S], [3Fe-4S], [4Fe-4S]"	Subunit of succinate dehydrogenase (complex II) 
+AT5G65165	SDH2-3	Mitochondria	"[2Fe-2S], [3Fe-4S], [4Fe-4S]"	Subunit of succinate dehydrogenase (complex II) 
+AT5G04590	SIR1	Plastids	"[4Fe-4S], sirohaem"	"Sulfite reductase, _-subunit "
+AT1G50170	SIRB	Plastids	[2Fe-2S]	Sirohydrochlorin ferrochelatase; last step of sirohaem biosynthesis 
+AT4G04770	SUFB/NAP1*	Plastids	[4Fe-4S]b	"Other names: ABCI8, NAP1, LAF6; part of SUFBCD complex involved in Fe-S cluster assembly. "
+AT5G50210	SUFE3-NADA*	Plastids	[4Fe-4S]	"Quinolinate synthase (NADA) required for NAD cofactor biosynthesis, with N-terminal SUFE domain. "
+AT2G29630	THIC	Plastids	[4Fe-4S]	Thiamine biosynthesis; radical SAM enzyme 
+AT2G24820	TIC55	Plastid	Rieske [2Fe-2S]	Protein associated with the translocon at the inner envelope membrane of chloroplasts 
+AT1G76170	TtcA	Cytosol	[3Fe-4S]	homologue of ROL5    2-thiocytidine tRNA biosynthesis protein
+AT1G75200	TYW1	Cytosol?	"[4Fe-4S]b, FMN"	Required for tRNA wybutosine modification in yeast; uncharacterized radical SAM enzyme in Arabidopsis 
+AT4G34890	XDH1	Cytosol	"2x[2Fe-2S], FAD, Mococ"	Xanthine dehydrogenase; involved in purine catabolism 
+AT4G34900	XDH2	Cytosol	"2x[2Fe-2S], FAD, Mococ"	Xanthine dehydrogenase; involved in purine catabolism 

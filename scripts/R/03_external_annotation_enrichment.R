@@ -1,24 +1,26 @@
 # ================================
-# 03_External_Annotation_Enrichment.R
+# 03_external_annotation_enrichment.R
 # ================================
 
-suppressPackageStartupMessages({
   library(dplyr)
   library(readxl)
   library(writexl)
-})
+
 
 # ---- Paths ----
-output_dir <- "E:/桌面/Iron Project_Gen/!Transcriptomic experiment/!Data Analysis/Ath_featurecount_Ath_root/!For TRR paper/Gene lists"
+input_dir <- "results/02_DEG_classification"
+internal_dir <- "data/annotation/internal"
+external_dir <- "data/annotation/external"
+output_dir <- "results/03_functional_annotation"
 
 input_file <- file.path(
-  output_dir,
-  "02_Ath_root_universal_DEG_table_with_annotation_and_expression_20260505.xlsx"
+  input_dir,
+  "universal_DEG_table.xlsx"
 )
 
 output_file <- file.path(
   output_dir,
-  "03_Ath_root_universal_DEG_table_with_annotation_and_expression_external_annotations_20260505.xlsx"
+  "universal_DEG_table_with_annotation.xlsx"
 )
 
 # ---- Helper: load gene IDs from .txt (first column) ----
@@ -40,7 +42,7 @@ deg_df <- deg_df %>% distinct(Gene_ID, .keep_all = TRUE)
 # ================================
 # 1. Kim et al., 2019
 # ================================
-kim_file <- file.path(output_dir, "Kim et al_2019.xlsx")
+kim_file <- file.path(external_dir, "Kim_et_al_2019_Fe_response.xlsx")
 kim_df <- read_excel(kim_file)
 
 deg_df <- deg_df %>%
@@ -56,7 +58,7 @@ deg_df <- deg_df %>%
 # ================================
 # 2. Internal Metal Homeostasis
 # ================================
-metal_file <- file.path(output_dir, "!metal_homeostasis_2024_03_18_v17_deleted_redundancy.xlsx")
+metal_file <- file.path(internal_dir, "metal_homeostasis_gene.xlsx")
 metal_df <- read_excel(metal_file, sheet = "Metal_homeostasis_generous_upd") %>%
   mutate(AGI_Number = toupper(trimws(AGI_Number)))
 
@@ -74,7 +76,7 @@ deg_df <- deg_df %>%
 # ================================
 # 3. Genes affecting ionome
 # ================================
-ionome_file <- file.path(output_dir, "!genes_affecting_ionome.xlsx")
+ionome_file <- file.path(external_dir, "Whitt_et_al_2020_genes_affecting_ionome.xlsx")
 ionome_df <- read_excel(ionome_file, sheet = "A.thaliana")
 
 deg_df <- deg_df %>%
@@ -91,16 +93,16 @@ deg_df <- deg_df %>%
 # 4. Fe Metalloprotein
 # ================================
 fe_files <- list(
-  "Fe cation" = "2023_07_26_Fe_cation_binding_genes_ZhangFPLS.txt",
-  "heme/cytochrome" = "2023_07_26_Heme_containing_proteins_ZhangFPLS.txt",
-  "FeS cluster use" = "2023_07_26_Fe-S_cluster_containing_proteins_Zhang.txt",
-  "FeS cluster biogenesis" = "2023_07_26_FE-S_assembly_proteins_Zhang.txt"
+  "Fe cation" = "Zhang_2018_Fe_cation_binding_genes.txt",
+  "heme/cytochrome" = "Zhang_2018_Heme_containing_proteins.txt",
+  "FeS cluster use" = "Zhang_2018_Fe-S_cluster_containing_proteins.txt",
+  "FeS cluster biogenesis" = "Zhang_2018_FE-S_assembly_proteins.txt"
 )
 
 deg_df$`Fe Metalloprotein` <- NA_character_
 
 for (type in names(fe_files)) {
-  genes <- load_gene_ids(file.path(output_dir, fe_files[[type]]))
+  genes <- load_gene_ids(file.path(internal_dir, fe_files[[type]]))
   
   deg_df$`Fe Metalloprotein` <- ifelse(
     deg_df$Gene_ID %in% genes,
@@ -117,20 +119,20 @@ for (type in names(fe_files)) {
 # 5. Metal-containing proteins
 # ================================
 metal_contain_files <- list(
-  "Mn-Containing" = "2023_07_26_Mn_containing_proteins_ZhangFPLS.txt",
-  "Zn-Containing" = "2023_07_26_Zn_containing_proteins_ZhangFPLS.txt",
-  "Cu-Containing" = "2023_07_26_Cu_containing_proteins_ZhangFPLS.txt"
+  "Mn-Containing" = "Zhang_2018_Mn_containing_proteins.txt",
+  "Zn-Containing" = "Zhang_2018_Zn_containing_proteins.txt",
+  "Cu-Containing" = "Zhang_2018_Cu_containing_proteins.txt"
 )
 
 for (col_name in names(metal_contain_files)) {
-  genes <- load_gene_ids(file.path(output_dir, metal_contain_files[[col_name]]))
+  genes <- load_gene_ids(file.path(internal_dir, metal_contain_files[[col_name]]))
   deg_df[[col_name]] <- ifelse(deg_df$Gene_ID %in% genes, "Yes", "")
 }
 
 # ================================
 # 6. Casparian Strip / Suberin
 # ================================
-casparian_file <- file.path(output_dir, "Casparian_strip_and_suberin_Baohai2019.xlsx")
+casparian_file <- file.path(internal_dir, "Casparian_strip_and_suberin.xlsx")
 casparian_df <- read_excel(casparian_file)
 
 deg_df <- deg_df %>%
@@ -142,7 +144,7 @@ deg_df <- deg_df %>%
 # ================================
 # 7. Meiosis
 # ================================
-meiosis_file <- file.path(output_dir, "2023_07_26_Meiosis_2019.txt")
+meiosis_file <- file.path(internal_dir, "Meiosis.txt")
 meiosis_genes <- load_gene_ids(meiosis_file)
 
 deg_df$Meiosis <- ifelse(deg_df$Gene_ID %in% meiosis_genes, "Yes", "")
@@ -150,7 +152,7 @@ deg_df$Meiosis <- ifelse(deg_df$Gene_ID %in% meiosis_genes, "Yes", "")
 # ================================
 # 8. DNA Repair
 # ================================
-dna_file <- file.path(output_dir, "2023_08_03_DDR_and_recombination_Fullset_AP2023_edited.txt")
+dna_file <- file.path(internal_dir, "DDR_and_recombination.txt")
 dna_genes <- load_gene_ids(dna_file)
 
 deg_df$`DNA Repair` <- ifelse(deg_df$Gene_ID %in% dna_genes, "Yes", "")
@@ -158,7 +160,7 @@ deg_df$`DNA Repair` <- ifelse(deg_df$Gene_ID %in% dna_genes, "Yes", "")
 # ================================
 # 9. Root Hair / Trichoblast
 # ================================
-root_file <- file.path(output_dir, "Root hair and trichoblast _GO_TAIR_Gen_20250824.xlsx")
+root_file <- file.path(internal_dir, "Root_hair_and_trichoblast_GO_TAIR_processed.xlsx")
 root_df <- read_excel(root_file, sheet = "Root hair and trichoblast") %>%
   select(Gene_ID, GO_Term_Description)
 
@@ -176,8 +178,8 @@ deg_df <- deg_df %>%
 # 10. Root Ferrome
 # ================================
 ferrome_file <- file.path(
-  output_dir,
-  "!leaf_root_ferrome_McInturf_Mondoza-Cozatl_JExpBot_2021_suppl_supplementary_table_s1.xlsx"
+  external_dir,
+  "McInturf_et_al_2022_leaf_root_ferrome.xlsx"
 )
 ferrome_df <- read_excel(ferrome_file, sheet = "Root")
 
@@ -197,7 +199,7 @@ deg_df <- deg_df %>%
 # ================================
 # 11. FIT / PYE target
 # ================================
-FIT_PYE_file <- file.path(output_dir, "Schmidt_Buckhout_FIT_PYE_target.xlsx")
+FIT_PYE_file <- file.path(external_dir, "Schmidt_and_Buckhout_2011_FIT_PYE_target.xlsx")
 FIT_PYE_df <- read_excel(FIT_PYE_file)
 
 deg_df <- deg_df %>%

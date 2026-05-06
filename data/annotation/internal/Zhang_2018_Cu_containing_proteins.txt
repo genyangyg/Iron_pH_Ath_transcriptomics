@@ -1,0 +1,265 @@
+AGI code	Annotation
+AT1G22480	plastocyanin-like domain-containing protein
+AT1G53240	"Lactate/malate dehydrogenase family protein; FUNCTIONS IN: malate dehydrogenase activity, copper ion binding; INVOLVED IN: response to cadmium ion, response to salt stress, response to cold, defense response to bacterium, peptidyl-cysteine S-nitrosylation; LOCATED IN: mitochondrion, cell wall, chloroplast; EXPRESSED IN: 26 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Lactate/malate dehydrogenase, C-terminal (InterPro:IPR022383), Malate dehydrogenase, NAD-dependent, eukaryote/gamma proteobacteria (InterPro:IPR010097), NAD(P)-binding domain (InterPro:IPR016040), L-lactate/malate dehydrogenase (InterPro:IPR001557), Lactate/malate dehydrogenase, N-terminal (InterPro:IPR001236), Malate dehydrogenase, active site (InterPro:IPR001252), Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal (InterPro:IPR015955); BEST Arabidopsis thaliana protein match is: Lactate/malate dehydrogenase family protein (TAIR:AT3G15020.1); Has 17502 Blast hits to 17499 proteins in 5422 species: Archae - 240; Bacteria - 12205; Metazoa - 1281; Fungi - 536; Plants - 649; Viruses - 0; Other Eukaryotes - 2591 (source: NCBI BLink)."
+AT1G20340	DRT112 (DNA-damage-repair/toleration protein 112); copper ion binding / electron carrier
+AT1G23010	"LPR1 (LOW PHOSPHATE ROOT1); copper ion binding / oxidoreductase, acting on diphenols and related substances as donors, oxygen as acceptor"
+AT1G64640	plastocyanin-like domain-containing protein
+AT1G64600	copper ion binding; Cox11-like
+AT1G24360	"NAD(P)-binding Rossmann-fold superfamily protein; FUNCTIONS IN: 3-oxoacyl-[acyl-carrier-protein] reductase activity, copper ion binding; INVOLVED IN: oxidation reduction, metabolic process, fatty acid biosynthetic process; LOCATED IN: chloroplast stroma, chloroplast, chloroplast envelope; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: 3-oxoacyl-(acyl-carrier-protein) reductase (InterPro:IPR011284), Short-chain dehydrogenase/reductase, conserved site (InterPro:IPR020904), NAD(P)-binding domain (InterPro:IPR016040), Glucose/ribitol dehydrogenase (InterPro:IPR002347), Short-chain dehydrogenase/reductase SDR (InterPro:IPR002198); BEST Arabidopsis thaliana protein match is: NAD(P)-binding Rossmann-fold superfamily protein (TAIR:AT2G29370.1); Has 133396 Blast hits to 132816 proteins in 3924 species: Archae - 1008; Bacteria - 83642; Metazoa - 7884; Fungi - 7548; Plants - 3127; Viruses - 5; Other Eukaryotes - 30182 (source: NCBI BLink)."
+AT1G08830	"CSD1 (COPPER/ZINC SUPEROXIDE DISMUTASE 1); copper, zinc superoxide dismutaseCSD1 (COPPER/ZINC SUPEROXIDE DISMUTASE 1)"
+AT1G62810	"copper amine oxidase, putative"
+AT1G07750	"RmlC-like cupins superfamily protein; FUNCTIONS IN: copper ion binding, zinc ion binding, nutrient reservoir activity; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 26 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Cupin, RmlC-type (InterPro:IPR011051), Cupin 1 (InterPro:IPR006045), RmlC-like jelly roll fold (InterPro:IPR014710), 11-S seed storage protein, plant (InterPro:IPR006044); BEST Arabidopsis thaliana protein match is: RmlC-like cupins superfamily protein (TAIR:AT2G28680.1); Has 920 Blast hits to 832 proteins in 102 species: Archae - 0; Bacteria - 2; Metazoa - 3; Fungi - 0; Plants - 914; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink)."
+AT1G31710	"copper amine oxidase, putative"
+AT1G31690	copper ion binding
+AT1G31670	"copper amine oxidase, putative"
+AT1G29100	copper-binding family protein
+AT1G17800	plastocyanin-like domain-containing protein
+AT1G41830	SKS6 (SKU5 Similar 6); pectinesterase
+AT1G36390	"Co-chaperone GrpE family protein; FUNCTIONS IN: copper ion binding; INVOLVED IN: protein folding, protein import into mitochondrial matrix; LOCATED IN: chloroplast; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: GrpE nucleotide exchange factor (InterPro:IPR000740), GrpE nucleotide exchange factor, coiled-coil (InterPro:IPR013805), GrpE nucleotide exchange factor, head (InterPro:IPR009012); BEST Arabidopsis thaliana protein match is: Co-chaperone GrpE family protein (TAIR:AT5G17710.2); Has 7907 Blast hits to 7907 proteins in 2666 species: Archae - 104; Bacteria - 5138; Metazoa - 133; Fungi - 118; Plants - 143; Viruses - 0; Other Eukaryotes - 2271 (source: NCBI BLink)."
+AT1G21850	SKS8 (SKU5 Similar 8); copper ion binding / oxidoreductase
+AT1G53030	cytochrome c oxidase copper chaperone family protein
+AT1G15140	"FAD/NAD(P)-binding oxidoreductase; FUNCTIONS IN: oxidoreductase activity, copper ion binding; INVOLVED IN: oxidation reduction; LOCATED IN: thylakoid, chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Oxidoreductase FAD/NAD(P)-binding (InterPro:IPR001433), Ferredoxin reductase-type FAD-binding domain (InterPro:IPR017927), Oxidoreductase, FAD-binding domain (InterPro:IPR008333), Riboflavin synthase-like beta-barrel (InterPro:IPR017938), Phenol hydroxylase reductase (InterPro:IPR001221); BEST Arabidopsis thaliana protein match is: ferredoxin-NADP(+)-oxidoreductase 2 (TAIR:AT1G20020.3); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink)."
+AT2G20420	"ATP citrate lyase (ACL) family protein; FUNCTIONS IN: succinate-CoA ligase (GDP-forming) activity, copper ion binding, ATP binding; INVOLVED IN: response to cadmium ion, metabolic process; LOCATED IN: mitochondrion; EXPRESSED IN: 26 plant structures; EXPRESSED DURING: 16 growth stages; CONTAINS InterPro DOMAIN/s: Succinyl-CoA synthetase, beta subunit (InterPro:IPR005809), Succinyl-CoA synthetase, beta subunit, conserved site (InterPro:IPR017866), ATP-citrate lyase/succinyl-CoA ligase (InterPro:IPR005811), ATP-grasp fold (InterPro:IPR011761), ATP-grasp fold, subdomain 2 (InterPro:IPR013816), ATP-grasp fold, succinyl-CoA synthetase-type (InterPro:IPR013650), Succinyl-CoA synthetase-like (InterPro:IPR016102); BEST Arabidopsis thaliana protein match is: ATP-citrate lyase A-1 (TAIR:AT1G10670.4); Has 9337 Blast hits to 9333 proteins in 2108 species: Archae - 181; Bacteria - 4147; Metazoa - 466; Fungi - 228; Plants - 81; Viruses - 0; Other Eukaryotes - 4234 (source: NCBI BLink)."
+AT2G37660	"NAD(P)-binding Rossmann-fold superfamily protein; FUNCTIONS IN: copper ion binding; INVOLVED IN: defense response to bacterium; LOCATED IN: thylakoid, apoplast, chloroplast stroma, chloroplast; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: 3-beta hydroxysteroid dehydrogenase/isomerase (InterPro:IPR002225), NAD(P)-binding domain (InterPro:IPR016040); BEST Arabidopsis thaliana protein match is: NAD(P)-binding Rossmann-fold superfamily protein (TAIR:AT5G02240.1); Has 2691 Blast hits to 2647 proteins in 745 species: Archae - 56; Bacteria - 1822; Metazoa - 3; Fungi - 41; Plants - 459; Viruses - 0; Other Eukaryotes - 310 (source: NCBI BLink)."
+AT2G27730	copper ion binding; FUNCTIONS IN: copper ion binding; INVOLVED IN: photorespiration; LOCATED IN: in 6 components; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; Has 74 Blast hits to 74 proteins in 14 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 74; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).
+AT2G44790	UCC2 (UCLACYANIN 2); copper ion binding
+AT2G26720	"plastocyanin-like domain-containing protein / mavicyanin, putative"
+AT2G15780	glycine-rich protein; contains cupredoxin domain
+AT2G15770	"glycine-rich protein, contains PC-like domain"
+AT2G36460	"Aldolase superfamily protein; FUNCTIONS IN: copper ion binding; INVOLVED IN: response to salt stress, pentose-phosphate shunt; LOCATED IN: mitochondrion, plasma membrane, membrane; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Aldolase-type TIM barrel (InterPro:IPR013785), Fructose-bisphosphate aldolase, class-I (InterPro:IPR000741); BEST Arabidopsis thaliana protein match is: Aldolase superfamily protein (TAIR:AT3G52930.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink)."
+AT2G28190	"CSD2 (COPPER/ZINC SUPEROXIDE DISMUTASE 2); copper, zinc superoxide dismutase"
+AT2G33210	"heat shock protein 60-2 (HSP60-2); CONTAINS InterPro DOMAIN/s: Chaperonin Cpn60/TCP-1 (InterPro:IPR002423), Chaperonin Cpn60, conserved site (InterPro:IPR018370), Chaperonin Cpn60 (InterPro:IPR001844); BEST Arabidopsis thaliana protein match is: heat shock protein 60 (TAIR:AT3G23990.1)."
+AT2G01520	MLP328 (MLP-LIKE PROTEIN 328)
+AT2G01530	MLP329 (MLP-LIKE PROTEIN 329)
+AT2G37390	heavy-metal-associated domain-containing protein
+AT2G25670	BEST Arabidopsis thaliana protein match is: copper ion binding (TAIR:AT4G32610.1); Has 43784 Blast hits to 26928 proteins in 1799 species: Archae - 86; Bacteria - 6347; Metazoa - 15971; Fungi - 5398; Plants - 1931; Viruses - 259; Other Eukaryotes - 13792 (source: NCBI BLink).
+AT2G19940	"oxidoreductases, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor;copper ion binding; FUNCTIONS IN: oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor, copper ion binding; INVOLVED IN: response to cadmium ion, cellular amino acid metabolic process; LOCATED IN: nucleolus, chloroplast, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Semialdehyde dehydrogenase, dimerisation domain (InterPro:IPR012280), Semialdehyde dehydrogenase, NAD-binding (InterPro:IPR000534), N-acetyl-gamma-glutamyl-phosphate reductase (InterPro:IPR000706); Has 8034 Blast hits to 8033 proteins in 2187 species: Archae - 385; Bacteria - 4804; Metazoa - 0; Fungi - 163; Plants - 77; Viruses - 0; Other Eukaryotes - 2605 (source: NCBI BLink)."
+AT2G21870	"MALE GAMETOPHYTE DEFECTIVE 1 (MGP1); FUNCTIONS IN: copper ion binding, cobalt ion binding, zinc ion binding; INVOLVED IN: biological_process unknown; LOCATED IN: mitochondrion, nucleolus, chloroplast, membrane; EXPRESSED IN: 27 plant structures; EXPRESSED DURING: 17 growth stages; Has 56 Blast hits to 56 proteins in 21 species: Archae - 2; Bacteria - 2; Metazoa - 1; Fungi - 0; Plants - 50; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink)."
+AT2G33740	CUTA chloroplast copper chaperone
+AT2G36950	heavy-metal-associated domain-containing protein
+AT2G36880	MAT3 (METHIONINE ADENOSYLTRANSFERASE 3); methionine adenosyltransferaseMAT3 (METHIONINE ADENOSYLTRANSFERASE 3)
+AT2G04400	"Aldolase-type TIM barrel family protein; FUNCTIONS IN: indole-3-glycerol-phosphate synthase activity, copper ion binding; INVOLVED IN: tryptophan biosynthetic process; LOCATED IN: chloroplast; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Aldolase-type TIM barrel (InterPro:IPR013785), Ribulose-phosphate binding barrel (InterPro:IPR011060), Indole-3-glycerol phosphate synthase, conserved site (InterPro:IPR001468), Indole-3-glycerol phosphate synthase (InterPro:IPR013798); BEST Arabidopsis thaliana protein match is: Aldolase-type TIM barrel family protein (TAIR:AT5G48220.1); Has 8050 Blast hits to 8050 proteins in 2237 species: Archae - 197; Bacteria - 5328; Metazoa - 3; Fungi - 164; Plants - 82; Viruses - 0; Other Eukaryotes - 2276 (source: NCBI BLink)."
+AT2G23990	"early nodulin-like protein 11 (ENODL11); FUNCTIONS IN: electron carrier activity, copper ion binding; LOCATED IN: anchored to membrane; EXPRESSED IN: central cell, embryo; EXPRESSED DURING: C globular stage; CONTAINS InterPro DOMAIN/s: Plastocyanin-like (InterPro:IPR003245), Cupredoxin (InterPro:IPR008972); BEST Arabidopsis thaliana protein match is: early nodulin-like protein 12 (TAIR:AT4G30590.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink)."
+AT2G32300	UCC1 (UCLACYANIN 1); copper ion binding
+AT2G28660	copper-binding family protein
+AT3G02960	copper-binding protein-related
+AT3G23940	"dehydratase family; CONTAINS InterPro DOMAIN/s: Dihydroxy-acid dehydratase (InterPro:IPR004404), Dihydroxy-acid/6-phosphogluconate dehydratase, conserved site (InterPro:IPR020558), Dihydroxy-acid/6-phosphogluconate dehydratase (InterPro:IPR000581)."
+AT3G58610	"ketol-acid reductoisomerase; CONTAINS InterPro DOMAIN/s: Acetohydroxy acid isomeroreductase, catalytic (InterPro:IPR013116), 6-phosphogluconate dehydrogenase, C-terminal-like (InterPro:IPR008927), Dehydrogenase, multihelical (InterPro:IPR013328), Acetohydroxy acid isomeroreductase C-terminal (InterPro:IPR000506), Ketol-acid reductoisomerase (InterPro:IPR016206), Acetohydroxy acid isomeroreductase (InterPro:IPR013023), NAD(P)-binding domain (InterPro:IPR016040)."
+AT3G56240	CCH (COPPER CHAPERONE)
+AT3G43670	"copper amine oxidase, putative"
+AT3G60270	"uclacyanin, putative"
+AT3G60280	UCC3 (UCLACYANIN 3); copper ion binding
+AT3G09390	MT2A (METALLOTHIONEIN 2A)
+AT3G09200	"Ribosomal protein L10 family protein; FUNCTIONS IN: structural constituent of ribosome, copper ion binding; INVOLVED IN: in 6 processes; LOCATED IN: cytosol, cytosolic ribosome, ribosome, nucleus, plasma membrane; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Ribosomal protein 60S (InterPro:IPR001813); BEST Arabidopsis thaliana protein match is: Ribosomal protein L10 family protein (TAIR:AT3G11250.1); Has 1417 Blast hits to 1416 proteins in 449 species: Archae - 322; Bacteria - 1; Metazoa - 456; Fungi - 192; Plants - 147; Viruses - 0; Other Eukaryotes - 299 (source: NCBI BLink)."
+AT3G53330	plastocyanin-like domain-containing protein
+AT3G53530	heavy-metal-associated domain-containing proteinheavy-metal-associated domain-containing protein
+AT3G52930	"Aldolase superfamily protein; FUNCTIONS IN: copper ion binding; INVOLVED IN: response to cadmium ion, response to karrikin, response to salt stress, pentose-phosphate shunt; LOCATED IN: in 8 components; EXPRESSED IN: 29 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Aldolase-type TIM barrel (InterPro:IPR013785), Fructose-bisphosphate aldolase, class-I (InterPro:IPR000741); BEST Arabidopsis thaliana protein match is: Aldolase superfamily protein (TAIR:AT2G36460.1); Has 5003 Blast hits to 4997 proteins in 974 species: Archae - 0; Bacteria - 709; Metazoa - 1414; Fungi - 8; Plants - 477; Viruses - 0; Other Eukaryotes - 2395 (source: NCBI BLink)."
+AT3G20570	plastocyanin-like domain-containing protein
+AT3G15020	"Lactate/malate dehydrogenase family protein; FUNCTIONS IN: malate dehydrogenase activity, copper ion binding; INVOLVED IN: defense response to bacterium; LOCATED IN: mitochondrion, apoplast, membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Lactate/malate dehydrogenase, C-terminal (InterPro:IPR022383), Malate dehydrogenase, NAD-dependent, eukaryote/gamma proteobacteria (InterPro:IPR010097), NAD(P)-binding domain (InterPro:IPR016040), L-lactate/malate dehydrogenase (InterPro:IPR001557), Lactate/malate dehydrogenase, N-terminal (InterPro:IPR001236), Malate dehydrogenase, active site (InterPro:IPR001252), Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal (InterPro:IPR015955); BEST Arabidopsis thaliana protein match is: Lactate/malate dehydrogenase family protein (TAIR:AT1G53240.1); Has 16805 Blast hits to 16803 proteins in 5273 species: Archae - 237; Bacteria - 11900; Metazoa - 1175; Fungi - 513; Plants - 469; Viruses - 0; Other Eukaryotes - 2511 (source: NCBI BLink)."
+AT3G27200	plastocyanin-like domain-containing protein
+AT3G18590	plastocyanin-like domain-containing protein
+AT3G20180	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Domain of unknown function (DUF2431) (TAIR:AT1G55790.1); Has 234 Blast hits to 232 proteins in 14 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 234; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).
+AT3G13930	"Dihydrolipoamide acetyltransferase, long form protein; FUNCTIONS IN: dihydrolipoyllysine-residue acetyltransferase activity, copper ion binding; INVOLVED IN: pyruvate metabolic process, metabolic process; LOCATED IN: mitochondrion, chloroplast, chloroplast envelope; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: 2-oxo acid dehydrogenase, lipoyl-binding site (InterPro:IPR003016), Dihydrolipoamide acetyltransferase, long form (InterPro:IPR006257), E3 binding (InterPro:IPR004167), 2-oxoacid dehydrogenase acyltransferase, catalytic domain (InterPro:IPR001078), Single hybrid motif (InterPro:IPR011053), Biotin/lipoyl attachment (InterPro:IPR000089); BEST Arabidopsis thaliana protein match is: Dihydrolipoamide acetyltransferase, long form protein (TAIR:AT1G54220.2); Has 21425 Blast hits to 19790 proteins in 2331 species: Archae - 106; Bacteria - 12026; Metazoa - 730; Fungi - 474; Plants - 369; Viruses - 0; Other Eukaryotes - 7720 (source: NCBI BLink)."
+AT3G16700	"Fumarylacetoacetate (FAA) hydrolase family; FUNCTIONS IN: copper ion binding, catalytic activity; INVOLVED IN: metabolic process; LOCATED IN: cellular_component unknown; EXPRESSED IN: 18 plant structures; EXPRESSED DURING: 12 growth stages; CONTAINS InterPro DOMAIN/s: Fumarylacetoacetase, C-terminal-like (InterPro:IPR002529), Fumarylacetoacetase, C-terminal-related (InterPro:IPR011234); BEST Arabidopsis thaliana protein match is: Fumarylacetoacetate (FAA) hydrolase family (TAIR:AT4G15940.1); Has 9692 Blast hits to 9562 proteins in 1885 species: Archae - 224; Bacteria - 6431; Metazoa - 295; Fungi - 422; Plants - 61; Viruses - 0; Other Eukaryotes - 2259 (source: NCBI BLink)."
+AT3G21490	copper-binding family protein
+AT3G13772	Encodes an Arabidopsis Transmembrane nine (TMN) protein.  Transmembrane nine (TM9) proteins are localized in the secretory pathway of eukaryotic cells and are involved in cell adhesion and phagocytosis.  Overexpression of this protein in yeast alters copper and zinc homeostasis.
+AT3G13390	SKS11 (SKU5 Similar 11); copper ion binding / oxidoreductase
+AT3G13400	SKS13 (SKU5 Similar 13); copper ion binding / oxidoreductase
+AT3G29250	oxidoreductase
+AT3G24450	copper-binding family protein
+AT3G08950	electron transport SCO1/SenC family protein
+AT3G52300	"ATP synthase D chain, mitochondrial (ATPQ); FUNCTIONS IN: copper ion binding, zinc ion binding; INVOLVED IN: response to salt stress; LOCATED IN: mitochondrion, cytosolic ribosome, nucleolus, chloroplast, plasma membrane; EXPRESSED IN: 27 plant structures; EXPRESSED DURING: 16 growth stages; Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink)."
+AT3G43820	"pseudogene, copper amine oxidase protein family, similar to SP|Q43077 Amine oxidase (copper-containing) precursor (EC 1.4.3.6) {Pisum sativum}; contains Pfam profile PF01179: Copper amine oxidase, enzyme domain; blastp match of 57% identity and 2.6e-48 P-value to GP|5733089|gb|AAD49420.1|AF172681_1|AF172681 amine oxidase {Canavalia lineata}"
+AT3G48970	copper-binding family protein
+AT3G01070	plastocyanin-like domain-containing protein
+AT3G45740	"hydrolase family protein / HAD-superfamily protein; FUNCTIONS IN: copper ion binding, zinc ion binding; INVOLVED IN: metabolic process; LOCATED IN: mitochondrion; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: HAD-superfamily hydrolase, subfamily IIA, CECR5 (InterPro:IPR006353), HAD-superfamily hydrolase, subfamily IIA (InterPro:IPR006357); Has 548 Blast hits to 526 proteins in 159 species: Archae - 8; Bacteria - 6; Metazoa - 128; Fungi - 307; Plants - 36; Viruses - 0; Other Eukaryotes - 63 (source: NCBI BLink)."
+AT3G46900	COPT2 (Copper transporter 2); copper ion transmembrane transporter
+AT4G37160	SKS15 (SKU5 Similar 15); copper ion binding
+AT4G05400	copper ion binding; FUNCTIONS IN: copper ion binding; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT4G21140.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink).
+AT4G31840	plastocyanin-like domain-containing protein
+AT4G30590	plastocyanin-like domain-containing protein
+AT4G33520	"PAA1 (metal-transporting P-type ATPase 1); ATPase, coupled to transmembrane movement of ions, phosphorylative mechanismPAA1 (metal-transporting P-type ATPase 1)PAA1 (metal-transporting P-type ATPase 1)"
+AT4G22010	SKS4 (SKU5 Similar 4); copper ion binding / oxidoreductase
+AT4G38420	SKS9 (SKU5 Similar 9); copper ion binding / oxidoreductase
+AT4G01380	plastocyanin-like domain-containing protein
+AT4G32610	copper ion binding; BEST Arabidopsis thaliana protein match is: unknown protein (TAIR:AT2G25670.2); Has 53099 Blast hits to 32361 proteins in 2088 species: Archae - 115; Bacteria - 8255; Metazoa - 19472; Fungi - 6714; Plants - 2333; Viruses - 365; Other Eukaryotes - 15845 (source: NCBI BLink).
+AT4G21140	BEST Arabidopsis thaliana protein match is: copper ion binding (TAIR:AT4G05400.2); Has 41 Blast hits to 41 proteins in 16 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 40; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink).
+AT4G32490	plastocyanin-like domain-containing protein
+AT4G23670	major latex protein-related / MLP-related
+AT4G14940	ATAO1 (Arabidosis thaliana amine oxidase 1); copper ion binding
+AT4G15940	"Fumarylacetoacetate (FAA) hydrolase family; FUNCTIONS IN: copper ion binding, catalytic activity; INVOLVED IN: metabolic process; LOCATED IN: mitochondrion; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 15 growth stages; CONTAINS InterPro DOMAIN/s: Fumarylacetoacetase, C-terminal-like (InterPro:IPR002529), Fumarylacetoacetase, C-terminal-related (InterPro:IPR011234); BEST Arabidopsis thaliana protein match is: Fumarylacetoacetate (FAA) hydrolase family (TAIR:AT3G16700.1); Has 10822 Blast hits to 10670 proteins in 1907 species: Archae - 249; Bacteria - 6730; Metazoa - 306; Fungi - 435; Plants - 75; Viruses - 0; Other Eukaryotes - 3027 (source: NCBI BLink)."
+AT4G28090	SKS10 (SKU5 Similar 10); copper ion binding / oxidoreductase
+AT4G39740	electron transport SCO1/SenC family protein
+AT4G12420	SKU5 (skewed 5); copper ion binding
+AT4G12880	plastocyanin-like domain-containing protein
+AT4G27590	"Heavy metal transport/detoxification superfamily protein ; FUNCTIONS IN: copper ion binding, metal ion binding; INVOLVED IN: copper ion transport, metal ion transport; LOCATED IN: cellular_component unknown; EXPRESSED IN: 8 plant structures; EXPRESSED DURING: 6 growth stages; CONTAINS InterPro DOMAIN/s: Heavy metal transport/detoxification protein (InterPro:IPR006121); BEST Arabidopsis thaliana protein match is: Heavy metal transport/detoxification superfamily protein  (TAIR:AT3G56891.1); Has 739 Blast hits to 739 proteins in 27 species: Archae - 0; Bacteria - 0; Metazoa - 4; Fungi - 0; Plants - 735; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink)."
+AT4G12270	copper amine oxidase family protein
+AT4G12280	copper amine oxidase family protein
+AT4G12290	"copper amine oxidase, putative"
+AT4G12340	copper ion binding; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).
+AT4G01850	MAT2/SAM-2 (S-adenosylmethionine synthetase 2); methionine adenosyltransferaseMAT2/SAM-2 (S-adenosylmethionine synthetase 2)
+AT5G18830	Encodes a member of the Squamosa Binding Protein family of transcriptional regulators. SPL7 is expressed highly in roots and appears to play a role in copper homeostasis. Mutants are hypersensitive to copper deficient conditions and display a retarded growth phenotype. SPL7 binds to the promoter  of the copper responsive miRNAs miR398b and miR389c.
+AT5G20080	"FAD/NAD(P)-binding oxidoreductase; FUNCTIONS IN: cytochrome-b5 reductase activity, copper ion binding; INVOLVED IN: response to salt stress; LOCATED IN: mitochondrion, plant-type cell wall; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Ferredoxin reductase-type FAD-binding domain (InterPro:IPR017927), Oxidoreductase FAD/NAD(P)-binding (InterPro:IPR001433), Oxidoreductase, FAD-binding domain (InterPro:IPR008333), Riboflavin synthase-like beta-barrel (InterPro:IPR017938), Flavoprotein pyridine nucleotide cytochrome reductase (InterPro:IPR001709), NADH:cytochrome b5 reductase (CBR) (InterPro:IPR001834); BEST Arabidopsis thaliana protein match is: NADH:cytochrome B5 reductase 1 (TAIR:AT5G17770.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink)."
+AT5G59520	encodes a metal ion transporter whose expression is regulated by copper.
+AT5G20230	ATBCB (ARABIDOPSIS BLUE-COPPER-BINDING PROTEIN); copper ion binding
+AT5G52740	Copper transport protein family; FUNCTIONS IN: metal ion binding; INVOLVED IN: metal ion transport; LOCATED IN: cellular_component unknown; EXPRESSED IN: 11 plant structures; EXPRESSED DURING: 8 growth stages; CONTAINS InterPro DOMAIN/s: Heavy metal transport/detoxification protein (InterPro:IPR006121); BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52760.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52750	Heavy metal transport/detoxification superfamily protein ; FUNCTIONS IN: metal ion binding; INVOLVED IN: metal ion transport; LOCATED IN: cellular_component unknown; EXPRESSED IN: 20 plant structures; EXPRESSED DURING: 12 growth stages; CONTAINS InterPro DOMAIN/s: Heavy metal transport/detoxification protein (InterPro:IPR006121); BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52760.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52670	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52720.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52760	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Heavy metal transport/detoxification superfamily protein  (TAIR:AT5G52750.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52680	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52690.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52770	Copper transport protein family; FUNCTIONS IN: metal ion binding; INVOLVED IN: metal ion transport; LOCATED IN: cellular_component unknown; CONTAINS InterPro DOMAIN/s: Heavy metal transport/detoxification protein (InterPro:IPR006121); BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52760.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52690	Copper transport protein family; FUNCTIONS IN: metal ion binding; INVOLVED IN: metal ion transport; LOCATED IN: cellular_component unknown; CONTAINS InterPro DOMAIN/s: Heavy metal transport/detoxification protein (InterPro:IPR006121); BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52680.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52700	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52680.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52710	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52680.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G52720	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52670.1); Has 113 Blast hits to 106 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 113; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).
+AT5G52730	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT5G52720.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT5G08300	"Succinyl-CoA ligase, alpha subunit; FUNCTIONS IN: succinate-CoA ligase (GDP-forming) activity, copper ion binding, metal ion binding; INVOLVED IN: response to cadmium ion, metabolic process; LOCATED IN: mitochondrion, cell wall; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Succinyl-CoA ligase, alpha subunit (InterPro:IPR005810), ATP-citrate lyase/succinyl-CoA ligase (InterPro:IPR005811), NAD(P)-binding domain (InterPro:IPR016040), ATP-citrate lyase/succinyl-CoA ligase, active site (InterPro:IPR017440), CoA-binding (InterPro:IPR003781), Succinyl-CoA synthetase-like (InterPro:IPR016102); BEST Arabidopsis thaliana protein match is: Succinyl-CoA ligase, alpha subunit (TAIR:AT5G23250.1); Has 9706 Blast hits to 9705 proteins in 2093 species: Archae - 338; Bacteria - 4848; Metazoa - 444; Fungi - 287; Plants - 143; Viruses - 0; Other Eukaryotes - 3646 (source: NCBI BLink)."
+AT5G15350	plastocyanin-like domain-containing protein
+AT5G26330	"plastocyanin-like domain-containing protein / mavicyanin, putative"
+AT5G51480	SKS2 (SKU5 SIMILAR 2); copper ion binding
+AT5G59040	COPT3 (Copper transporter 3); copper ion transmembrane transporter
+AT5G24580	copper-binding family proteincopper-binding family protein
+AT5G53870	plastocyanin-like domain-containing protein
+AT5G44790	"RAN1 (RESPONSIVE-TO-ANTAGONIST1); ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism"
+AT5G55200	"Co-chaperone GrpE family protein; FUNCTIONS IN: copper ion binding, ATP binding; INVOLVED IN: protein folding, protein import into mitochondrial matrix; LOCATED IN: mitochondrion; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: GrpE nucleotide exchange factor (InterPro:IPR000740), GrpE nucleotide exchange factor, head (InterPro:IPR009012), GrpE nucleotide exchange factor, coiled-coil (InterPro:IPR013805); BEST Arabidopsis thaliana protein match is: Co-chaperone GrpE family protein (TAIR:AT4G26780.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink)."
+AT5G48100	LAC15; TT10 (TRANSPARENT TESTA 10); laccase
+AT5G23250	"Succinyl-CoA ligase, alpha subunit; FUNCTIONS IN: succinate-CoA ligase (GDP-forming) activity, copper ion binding; INVOLVED IN: metabolic process; LOCATED IN: mitochondrion; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Succinyl-CoA ligase, alpha subunit (InterPro:IPR005810), ATP-citrate lyase/succinyl-CoA ligase (InterPro:IPR005811), NAD(P)-binding domain (InterPro:IPR016040), ATP-citrate lyase/succinyl-CoA ligase, active site (InterPro:IPR017440), CoA-binding (InterPro:IPR003781), Succinyl-CoA synthetase-like (InterPro:IPR016102); BEST Arabidopsis thaliana protein match is: Succinyl-CoA ligase, alpha subunit (TAIR:AT5G08300.1); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink)."
+AT5G18100	CSD3 (COPPER/ZINC SUPEROXIDE DISMUTASE 3)CSD3 (COPPER/ZINC SUPEROXIDE DISMUTASE 3)
+AT5G23760	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Heavy metal transport/detoxification superfamily protein  (TAIR:AT1G01490.2); Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).
+AT5G57920	plastocyanin-like domain-containing protein
+AT5G66920	SKS17 (SKU5 Similar 17); copper ion binding / oxidoreductase
+AT5G17710	"embryo defective 1241 (EMB1241); FUNCTIONS IN: copper ion binding; INVOLVED IN: protein folding, embryo development ending in seed dormancy; LOCATED IN: thylakoid, chloroplast; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: GrpE nucleotide exchange factor (InterPro:IPR000740), GrpE nucleotide exchange factor, coiled-coil (InterPro:IPR013805), GrpE nucleotide exchange factor, head (InterPro:IPR009012); BEST Arabidopsis thaliana protein match is: Co-chaperone GrpE family protein (TAIR:AT1G36390.2); Has 8394 Blast hits to 8358 proteins in 2682 species: Archae - 138; Bacteria - 5138; Metazoa - 231; Fungi - 167; Plants - 159; Viruses - 7; Other Eukaryotes - 2554 (source: NCBI BLink)."
+AT5G50370	"Adenylate kinase family protein; FUNCTIONS IN: copper ion binding, adenylate kinase activity; INVOLVED IN: nucleobase, nucleoside, nucleotide and nucleic acid metabolic process, anaerobic respiration, nucleotide metabolic process; LOCATED IN: mitochondrion, plasma membrane; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Adenylate kinase, active site lid domain (InterPro:IPR007862), Adenylate kinase, subfamily (InterPro:IPR006259), Adenylate kinase (InterPro:IPR000850); BEST Arabidopsis thaliana protein match is: adenylate kinase 1 (TAIR:AT5G63400.1); Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink)."
+AT5G21100	"L-ascorbate oxidase, putative; multi-copper oxidase"
+AT5G25090	plastocyanin-like domain-containing protein
+AT5G02380	MT2B (METALLOTHIONEIN 2B)
+AT5G20650	COPT5 (copper transporter 5); copper ion transmembrane transporter
+AT5G02600	heavy-metal-associated domain-containing proteinheavy-metal-associated domain-containing protein
+AT1G55570	SKS12 (SKU5 Similar 12); copper ion binding / oxidoreductase
+AT1G55560	SKS14 (SKU5 Similar 14); copper ion binding / oxidoreductase
+AT1G63960	Copper transport protein family; BEST Arabidopsis thaliana protein match is: Heavy metal transport/detoxification superfamily protein  (TAIR:AT1G63950.1); Has 107 Blast hits to 107 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 107; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).
+AT1G10970	"A member of Zrt- and Irt-related protein (ZIP) family.  transcript is induced in response to zinc deficiency in the root and shoot. Expression is regulated by copper, but response to copper deficiency is detected only after three weeks of deficiency."
+AT1G76100	plastocyanin
+AT1G76160	SKS5 (SKU5 Similar 5); copper ion binding / oxidoreductase
+AT1G21860	SKS7 (SKU5 Similar 7); copper ion binding / oxidoreductase
+AT1G08500	Unknown
+AT1G06330	copper-binding family protein
+AT1G02410	cytochrome c oxidase assembly protein CtaG / Cox11 family
+AT1G66240	ATX1; metal ion binding
+AT1G57720	"Translation elongation factor EF1B, gamma chain; FUNCTIONS IN: copper ion binding, translation elongation factor activity; INVOLVED IN: response to cadmium ion, response to zinc ion; LOCATED IN: cell wall, plasma membrane, vacuole, membrane; EXPRESSED IN: 6 plant structures; EXPRESSED DURING: seedling growth, seed development stages; CONTAINS InterPro DOMAIN/s: Thioredoxin fold (InterPro:IPR012335), Glutathione S-transferase, C-terminal (InterPro:IPR004046), Glutathione S-transferase, C-terminal-like (InterPro:IPR010987), Glutathione S-transferase/chloride channel, C-terminal (InterPro:IPR017933), Translation elongation factor EF1B, gamma chain, conserved (InterPro:IPR001662), Glutathione S-transferase, N-terminal (InterPro:IPR004045), Thioredoxin-like fold (InterPro:IPR012336); BEST Arabidopsis thaliana protein match is: Translation elongation factor EF1B, gamma chain (TAIR:AT1G09640.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink)."
+AT1G72230	plastocyanin-like domain-containing protein
+AT2G07695	"cytochrome c oxidase subunit II, putative"
+AT1G67090	"ribulose bisphosphate carboxylase small chain 1A (RBCS1A); FUNCTIONS IN: ribulose-bisphosphate carboxylase activity, copper ion binding; INVOLVED IN: carbon fixation, response to cold, response to blue light, response to red light, response to far red light; LOCATED IN: in 7 components; EXPRESSED IN: 21 plant structures; EXPRESSED DURING: L mature pollen stage, M germinated pollen stage, seedling growth; CONTAINS InterPro DOMAIN/s: Ribulose bisphosphate carboxylase, small chain (InterPro:IPR000894); BEST Arabidopsis thaliana protein match is: Ribulose bisphosphate carboxylase (small chain) family protein (TAIR:AT5G38430.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink)."
+AT1G07600	MT1A (METALLOTHIONEIN 1A)
+AT1G48940	plastocyanin-like domain-containing protein
+AT1G12520	CCS1 (copper chaperone for superoxide dismutase 1); superoxide dismutase copper chaperoneCCS1 (copper chaperone for superoxide dismutase 1); superoxide dismutase copper chaperoneCCS1 (copper chaperone for superoxide dismutase 1); superoxide dismutase copper chaperone
+AT1G13440	"glyceraldehyde-3-phosphate dehydrogenase C2 (GAPC2); FUNCTIONS IN: copper ion binding, glyceraldehyde-3-phosphate dehydrogenase activity, zinc ion binding; INVOLVED IN: response to oxidative stress, response to cadmium ion, gluconeogenesis, defense response to bacterium, glycolysis; LOCATED IN: cytosol, mitochondrion, chloroplast, plasma membrane, membrane; EXPRESSED IN: 24 plant structures; EXPRESSED DURING: 14 growth stages; CONTAINS InterPro DOMAIN/s: Glyceraldehyde 3-phosphate dehydrogenase, catalytic domain (InterPro:IPR020829), Glyceraldehyde 3-phosphate dehydrogenase subfamily (InterPro:IPR000173), Glyceraldehyde 3-phosphate dehydrogenase family (InterPro:IPR020831), Glyceraldehyde-3-phosphate dehydrogenase, type I (InterPro:IPR006424), Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain (InterPro:IPR020828); BEST Arabidopsis thaliana protein match is: glyceraldehyde-3-phosphate dehydrogenase C subunit 1 (TAIR:AT3G04120.1); Has 25183 Blast hits to 25173 proteins in 6340 species: Archae - 41; Bacteria - 10793; Metazoa - 2402; Fungi - 2843; Plants - 3866; Viruses - 0; Other Eukaryotes - 5238 (source: NCBI BLink)."
+AT2G02850	ARPN (PLANTACYANIN); copper ion binding
+AT2G30080	"member of Fe(II) transporter isolog family. Gene expression is not regulated by iron, copper, or zinc deficiency or excess."
+AT4G27520	plastocyanin-like domain-containing protein
+AT4G05030	heavy-metal-associated domain-containing protein
+AT4G39830	"L-ascorbate oxidase, putative; multi-copper oxidase"
+AT5G59030	COPT1 (COPPER TRANSPORTER 1); copper ion transmembrane transporter
+AT5G37860	copper-binding family protein
+AT1G79800	plastocyanin-like domain-containing protein
+AT1G55790	FUNCTIONS IN: metal ion binding; INVOLVED IN: metal ion transport; CONTAINS InterPro DOMAIN/s: Heavy metal transport/detoxification protein (InterPro:IPR006121); BEST Arabidopsis thaliana protein match is: Copper transport protein family (TAIR:AT3G20180.1).
+AT1G75790	SKS18 (SKU5 Similar 18); copper ion binding / pectinesterase
+AT1G31490	transferase family protein
+AT2G25060	plastocyanin-like domain-containing protein
+AT2G42490	"copper amine oxidase, putative"
+AT2G23630	SKS16 (SKU5 Similar 16); copper ion binding / pectinesterase
+AT2G31050	plastocyanin-like domain-containing protein
+AT2G38080	IRX12/LAC4 (laccase 4); copper ion binding / oxidoreductase
+AT3G45770	"Polyketide synthase, enoylreductase family protein; FUNCTIONS IN: copper ion binding, zinc ion binding, ATP binding; INVOLVED IN: oxidation reduction, metabolic process; LOCATED IN: mitochondrion, chloroplast; EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: GroES-like (InterPro:IPR011032), NAD(P)-binding domain (InterPro:IPR016040), Alcohol dehydrogenase GroES-like (InterPro:IPR013154), Alcohol dehydrogenase, C-terminal (InterPro:IPR013149), Alcohol dehydrogenase superfamily, zinc-containing (InterPro:IPR002085); BEST Arabidopsis thaliana protein match is: ARP protein (REF) (TAIR:AT1G49670.1); Has 35333 Blast hits to 34131 proteins in 2444 species: Archae - 798; Bacteria - 22429; Metazoa - 974; Fungi - 991; Plants - 531; Viruses - 0; Other Eukaryotes - 9610 (source: NCBI BLink)."
+AT3G15352	ATCOX17 (Arabidopsis thaliana cytochrome c oxidase 17)
+AT3G15353	MT3 (METALLOTHIONEIN 3)
+AT3G16430	jacalin-related lectin 31 (JAL31); FUNCTIONS IN: copper ion binding; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: root; CONTAINS InterPro DOMAIN/s: Mannose-binding lectin (InterPro:IPR001229); BEST Arabidopsis thaliana protein match is: PYK10-binding protein 1 (TAIR:AT3G16420.3); Has 1533 Blast hits to 750 proteins in 40 species: Archae - 0; Bacteria - 2; Metazoa - 0; Fungi - 2; Plants - 1528; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink).
+AT3G25855	Copper transport protein family; Has 82 Blast hits to 82 proteins in 12 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 82; Viruses - 0; Other Eukaryotes - 0 (source: NCBI BLink).
+AT3G16460	"Mannose-binding lectin superfamily protein; FUNCTIONS IN: copper ion binding; INVOLVED IN: response to cold; LOCATED IN: cytosol, nucleus, membrane; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Mannose-binding lectin (InterPro:IPR001229); BEST Arabidopsis thaliana protein match is: myrosinase-binding protein 1 (TAIR:AT1G52040.1); Has 154923 Blast hits to 42609 proteins in 2555 species: Archae - 433; Bacteria - 67811; Metazoa - 26922; Fungi - 9329; Plants - 12326; Viruses - 2376; Other Eukaryotes - 35726 (source: NCBI BLink)."
+AT3G56940	"Encodes a putative ZIP protein with varying mRNA accumulation in leaves, stems and roots.  Has a consensus carboxylate-bridged di-iron binding site."
+AT4G28365	plastocyanin-like domain-containing protein
+AT5G21105	L-ascorbate oxidase/ copper ion binding/ multi-copper oxidase
+AT3G28958	plastocyanin-like domain-containing protein
+AT2G37925	COPT4 (copper transporter 4); copper ion transmembrane transporter
+AT2G26975	"COPT; copper transporter, putative"
+AT5G07475	plastocyanin-like domain-containing protein
+AT5G21930	"HMA8/PAA2 (P-TYPE ATPASE OF ARABIDOPSIS 2); ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism / copper ion transmembrane transporterHMA8/PAA2 (P-TYPE ATPASE OF ARABIDOPSIS 2); ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism"
+AT2G35612	Unknown
+AT1G45063	"copper ion binding;electron carriers; FUNCTIONS IN: electron carrier activity, copper ion binding; LOCATED IN: endomembrane system; CONTAINS InterPro DOMAIN/s: Plastocyanin-like (InterPro:IPR003245), Cupredoxin (InterPro:IPR008972); BEST Arabidopsis thaliana protein match is: plastocyanin-like domain-containing protein (TAIR:AT3G53330.1); Has 2601 Blast hits to 1373 proteins in 66 species: Archae - 0; Bacteria - 0; Metazoa - 0; Fungi - 0; Plants - 2600; Viruses - 0; Other Eukaryotes - 1 (source: NCBI BLink)."
+AT5G63530	ATFP3 (Arabidopsis thaliana farnesylated protein 3); metal ion bindingATFP3 (Arabidopsis thaliana farnesylated protein 3)
+AT4G38580	ATFP6 (FARNESYLATED PROTEIN 6); metal ion binding
+AT4G37100	catalytic/ pyridoxal phosphate binding
+AT1G56210	copper chaperone (CCH)-related
+AT1G69750	cox19 family protein
+AT1G66590	cox19 family proteincox19 family protein
+AT4G36700	cupin family protein
+AT2G37920	Old AGI code; EMB1513 (EMBRYO DEFECTIVE 1513); copper ion transmembrane transporter
+AT3G28850	glutaredoxin family protein
+AT5G28510	glycosyl hydrolase family 1 protein
+AT1G23000	heavy-metal-associated domain-containing protein
+AT1G29000	heavy-metal-associated domain-containing protein
+AT1G55780	heavy-metal-associated domain-containing protein
+AT1G63950	heavy-metal-associated domain-containing protein
+AT2G28090	heavy-metal-associated domain-containing protein
+AT3G05920	heavy-metal-associated domain-containing protein
+AT3G06130	heavy-metal-associated domain-containing protein
+AT4G23882	heavy-metal-associated domain-containing protein
+AT5G26690	heavy-metal-associated domain-containing protein
+AT5G27690	heavy-metal-associated domain-containing protein
+AT5G60800	heavy-metal-associated domain-containing protein
+AT1G22990	heavy-metal-associated domain-containing protein / copper chaperone (CCH)-related
+AT1G71050	heavy-metal-associated domain-containing protein / copper chaperone (CCH)-related
+AT4G08570	heavy-metal-associated domain-containing protein / copper chaperone (CCH)-related
+AT4G35060	heavy-metal-associated domain-containing protein / copper chaperone (CCH)-related
+AT4G39700	heavy-metal-associated domain-containing protein / copper chaperone (CCH)-related
+AT5G17450	heavy-metal-associated domain-containing protein / copper chaperone (CCH)-relatedheavy-metal-associated domain-containing protein / copper chaperone (CCH)-related
+AT1G01490	heavy-metal-associated domain-containing proteinheavy-metal-associated domain-containing protein
+AT3G05220	heavy-metal-associated domain-containing proteinheavy-metal-associated domain-containing protein
+AT5G03380	heavy-metal-associated domain-containing proteinheavy-metal-associated domain-containing protein
+AT5G19090	heavy-metal-associated domain-containing proteinheavy-metal-associated domain-containing protein
+AT1G63440	"HMA5 (HEAVY METAL ATPASE 5); ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism"
+AT1G65930	"isocitrate dehydrogenase, putative / NADP+ isocitrate dehydrogenase, putative"
+AT5G01050	LAC 9; laccase family protein / diphenol oxidase family protein
+AT1G18140	LAC1 (Laccase 1); copper ion binding / oxidoreductase
+AT5G01190	LAC10 (laccase 10); copper ion binding / oxidoreductase
+AT5G03260	LAC11 (laccase 11); copper ion binding / oxidoreductase
+AT5G05390	LAC12 (laccase 12); copper ion binding / oxidoreductase
+AT5G07130	LAC13 (laccase 13); copper ion binding / oxidoreductase
+AT5G09360	LAC14 (laccase 14); copper ion binding / oxidoreductase
+AT5G58910	LAC16 (laccase 16); copper ion binding / oxidoreductase
+AT5G60020	LAC17 (laccase 17); copper ion binding / oxidoreductase
+AT2G29130	LAC2 (laccase 2); copper ion binding / oxidoreductase
+AT2G30210	LAC3 (laccase 3); copper ion binding / oxidoreductase
+AT2G40370	LAC5 (laccase 5); copper ion binding / oxidoreductase
+AT2G46570	LAC6 (laccase 6); copper ion binding / oxidoreductase
+AT3G09220	LAC7 (laccase 7); copper ion binding / oxidoreductase
+AT5G01040	LAC8 (laccase 8); copper ion binding / oxidoreductase
+AT2G12280	"ligase, putative"
+AT1G71040	LPR2 (LOW PHOSPHATE ROOT2); copper ion binding
+AT4G14060	major latex protein-related / MLP-related
+AT1G30473	metal ion binding
+AT2G18196	metal ion binding
+AT5G50740	metal ion binding
+AT5G66110	metal ion binding
+AT1G07610	MT1C (metallothionein 1C)
+AT3G06310	NADH-ubiquinone oxidoreductase 19 kDa subunit (NDUFA8) family proteinNADH-ubiquinone oxidoreductase 19 kDa subunit (NDUFA8) family protein
+AT5G18800	NADH-ubiquinone oxidoreductase 19 kDa subunit (NDUFA8) family proteinNADH-ubiquinone oxidoreductase 19 kDa subunit (NDUFA8) family protein
+AT2G01670	NUDT17 (Arabidopsis thaliana Nudix hydrolase homolog 17); hydrolase
+AT2G27035	plastocyanin-like domain-containing protein
+AT3G23810	SAHH2 (S-ADENOSYL-L-HOMOCYSTEINE (SAH) HYDROLASE 2); adenosylhomocysteinase
+AT4G25240	SKS1 (SKU5 SIMILAR 1); copper ion binding
+AT5G48450	SKS3 (SKU5 Similar 3); copper ion binding
+AT1G02160	Unknown
+AT5G64400	Unknown
+AT3G12915	Unknown
+AT5G09570	Unknown
+AT5G18920	Unknown
+AT5G23395	Unknown
+ATMG01360	COX 1 ; Cytochrome c oxidase subunit 1
+ATMG00160	COX2 ; Cytochrome c oxidase subunit 2
+AT1G66340	"ETR1, ethylene receptor"
+AT1G04310	"ERS2, ethylene receptor"
+AT2G40940	"ERS1, ethylene receptor"
+AT5G03730	"CTR1, ethylene receptor"
+AT3G04580	"EIN4, ethylene receptor"
+AT2G26230	"uricase / urate oxidase / nodulin 35, putative"

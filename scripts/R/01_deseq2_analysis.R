@@ -11,7 +11,7 @@
 counts_file <- "data/raw/countData_root_Ath_clean.csv"
 coldata_file <- "data/raw/coldata_root_Ath_clean.csv"
 
-output_dir <- "results/01_DESeq2"
+output_dir <- "results/01_DESeq2_model"
 output_file <- file.path(
   output_dir,
   "deseq2_deg_classification.xlsx"

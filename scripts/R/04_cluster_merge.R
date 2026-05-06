@@ -1,31 +1,32 @@
 # ================================
-# 04_Cluster_Merge.R
+# 04_cluster_merge.R
 # ================================
 
-suppressPackageStartupMessages({
   library(readxl)
   library(openxlsx)
   library(dplyr)
-})
+
 
 # -----------------------------
 # 1. Paths
 # -----------------------------
-output_dir <- "E:/桌面/Iron Project_Gen/!Transcriptomic experiment/!Data Analysis/Ath_featurecount_Ath_root/!For TRR paper/Gene lists"
+input_dir <- "results/03_functional_annotation"
+cluster_dir <- "data/clustering"
+output_dir <- "results/04_expression_clusters_mfuzz"
 
 input_file <- file.path(
-  output_dir,
-  "03_Ath_root_universal_DEG_table_with_annotation_and_expression_external_annotations_20260505.xlsx"
+  input_dir,
+  "universal_DEG_table_with_annotation.xlsx"
 )
 
 cluster_file <- file.path(
-  output_dir,
-  "04_Clustered results from DEG_from_5contrasts_UP_DOWN_8 clusters_scaled_membership_20260505.csv"
+  cluster_dir,
+  "clustering_mfuzz.csv"
 )
 
 output_file <- file.path(
   output_dir,
-  "04_Ath_root_universal_DEG_table_with_annotation_and_expression_external_annotations_cluster_number_20260505.xlsx"
+  "universal_DEG_table_with_annotation_cluster.xlsx"
 )
 
 # -----------------------------

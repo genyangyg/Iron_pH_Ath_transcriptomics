@@ -8,11 +8,13 @@ library(readxl)
 library(writexl)
 
 # ---- Input ----
-output_dir <- "E:/桌面/Iron Project_Gen/!Transcriptomic experiment/!Data Analysis/Ath_featurecount_Ath_root/!For TRR paper/Gene lists"
-input_file <- input_file <- file.path(
-  output_dir, "04_Ath_root_universal_DEG_table_with_annotation_and_expression_external_annotations_cluster_number_20260505.xlsx")
+input_dir <- "results/04_expression_clusters_mfuzz"
+output_dir <- "results/05_regulatory_subgroup_classification"
+
+input_file <- file.path(
+  input_dir, "universal_DEG_table_with_annotation_cluster.xlsx")
 output_file <- file.path(
-  output_dir, "05_Universal_Data_with_Subgroups_20260505.xlsx")
+  output_dir, "universal_DEG_table_with_annotation_cluster_regulatory_subgroup.xlsx")
 
 joint_df <- read_excel(input_file)
 
