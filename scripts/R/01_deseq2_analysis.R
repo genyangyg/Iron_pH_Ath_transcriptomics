@@ -2,11 +2,10 @@
 # 01_DESeq2_core_and_classification.R
 # ================================
 
-suppressPackageStartupMessages({
   library(DESeq2)
   library(dplyr)
   library(writexl)
-})
+
 
 # ---- Parameters and file paths ----
 counts_file <- "data/raw/countData_root_Ath_clean.csv"
