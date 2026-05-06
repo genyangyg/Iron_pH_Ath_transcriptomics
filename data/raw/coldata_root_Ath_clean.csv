@@ -1,0 +1,13 @@
+﻿Sample,Fe,pH,batch
+WFe_pH5.5_WT_R1,WFe,5.5,1
+WFe_pH5.5_WT_R2,WFe,5.5,2
+WFe_pH5.5_WT_R3,WFe,5.5,3
+LFe_pH5.5_WT_R1,LFe,5.5,1
+LFe_pH5.5_WT_R2,LFe,5.5,2
+LFe_pH5.5_WT_R3,LFe,5.5,3
+LFe_pH7.5_WT_R1,LFe,7.5,1
+LFe_pH7.5_WT_R2,LFe,7.5,2
+LFe_pH7.5_WT_R3,LFe,7.5,3
+WFe_pH7.5_WT_R1,WFe,7.5,1
+WFe_pH7.5_WT_R2,WFe,7.5,2
+WFe_pH7.5_WT_R3,WFe,7.5,3
