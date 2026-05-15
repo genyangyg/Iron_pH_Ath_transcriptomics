@@ -64,11 +64,11 @@ File names are standardized for consistency and reproducibility.
 ---
 
 ### 5. Cell-type specific Fe deficiency response (Dinneny et al., 2008)
-File: Dinneny_et_al_2008_cell_type_Fe_response.xls
-Description: Cell-type specific differential gene expression under iron deficiency in Arabidopsis root
-Key column used:
-Cell type differentially expressed in
-Source:
+- File: Dinneny_et_al_2008_cell_type_Fe_response.xls
+- Description: Cell-type specific differential gene expression under iron deficiency in Arabidopsis root
+-Key column used:
+  - Cell type differentially expressed in
+- Source:
 Dinneny et al., 2008
 
 ---
