@@ -63,6 +63,16 @@ File names are standardized for consistency and reproducibility.
 
 ---
 
+5. Cell-type specific Fe deficiency response (Dinneny et al., 2008)
+File: Dinneny_et_al_2008_cell_type_Fe_response.xls
+Description: Cell-type specific differential gene expression under iron deficiency in Arabidopsis root
+Key column used:
+Cell type differentially expressed in
+Source:
+Dinneny et al., 2008
+
+---
+
 ## Data Processing Notes
 
 - Gene identifiers were standardized to uppercase AGI format (e.g., AT1G01010).
@@ -115,6 +125,7 @@ If you intend to reuse these datasets independently, please consult the original
 
 Please cite the original publications when using these datasets:
 
+- DINNENY, J. R., LONG, T. A., WANG, J. Y., JUNG, J. W., MACE, D., POINTER, S., BARRON, C., BRADY, S. M., SCHIEFELBEIN, J. & BENFEY, P. N. 2008. Cell identity mediates the response of Arabidopsis roots to abiotic stress. Science, 320(5878), 942-945.
 - KIM, S. A., LACROIX, I. S., GERBER, S. A. & GUERINOT, M. L. 2019. The iron deficiency response in Arabidopsis thaliana requires the phosphorylated transcription factor URI. Proc Natl Acad Sci USA, 116, 24933-24942.
 - WHITT, L., RICACHENEVSKY, F. K., ZIEGLER, G. Z., CLEMENS, S., WALKER, E., MAATHUIS, F. J. M., KEAR, P. & BAXTER, I. 2020. A curated list of genes that affect the plant ionome. Plant Direct, 4, e00272.
 - MCINTURF, S. A., KHAN, M. A., LI, J., MARJAULT, H.-B., FICHMAN, Y., KUNZ, H.-H., GOKUL, A., CASTRO-GUERRERO, N. A., HÖHNER, R., GOGGIN, F. L., KEYSTER, M., NECHUSTHAI, R., MITTLER, R. & MENDOZA-CÓZATL, D. G. 2022. Cadmium interference with iron sensing reveals transcriptional programs sensitive and insensitive to reactive oxygen species. Journal of Experimental Botany, 73, 324-338.
