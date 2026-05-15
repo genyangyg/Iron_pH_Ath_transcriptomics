@@ -208,14 +208,35 @@ deg_df <- deg_df %>%
     by = c("Gene_ID" = "ATG")
   )
 
+
 # ================================
-# 12. Final cleanup
+# 12 Dinneny et al., 2008
+# ================================
+dinneny_file <- file.path(external_dir, "Dinneny_et_al_2008_cell_type_Fe_response.xls")
+dinneny_df <- read_excel(dinneny_file)
+
+# standardize AGI
+dinneny_df <- dinneny_df %>%
+  mutate(AGI = toupper(trimws(AGI)))
+
+deg_df <- deg_df %>%
+  left_join(
+    dinneny_df %>% select(AGI, `Cell type differentially expressed in`),
+    by = c("Gene_ID" = "AGI")
+  ) %>%
+  rename(
+    `Cell type of Fe deficiency response [Dinneny et al., 2008]` =
+      `Cell type differentially expressed in`
+  )
+
+# ================================
+# 13. Final cleanup
 # ================================
 deg_df <- deg_df %>%
   distinct(Gene_ID, .keep_all = TRUE)
 
 # ================================
-# 13. Save enriched table
+# 14. Save enriched table
 # ================================
 write_xlsx(deg_df, output_file)
 
